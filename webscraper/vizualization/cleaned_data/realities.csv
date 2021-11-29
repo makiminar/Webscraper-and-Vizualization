@@ -1,0 +1,687 @@
+,title,location,price,region,property,building,land_area,util_area,payment
+0,Prodej komerčního objektu (jiného typu) 229 m²,"Mladkov, okres Ústí nad Orlicí",5 490 000,pardubicky-kraj,jiného typu,smíšená,2764 m,229 m,total
+1,Prodej komerčního objektu (jiného typu) 229 m²,"Mladkov, okres Ústí nad Orlicí",5 490 000,pardubicky-kraj,jiného typu,smíšená,2764 m,,total
+2,Prodej komerčního objektu (jiného typu) 229 m²,"Mladkov, okres Ústí nad Orlicí",5 490 000,pardubicky-kraj,jiného typu,smíšená,,229 m,total
+3,Prodej komerčního objektu (jiného typu) 229 m²,"Mladkov, okres Ústí nad Orlicí",5 490 000,pardubicky-kraj,jiného typu,smíšená,,,total
+4,Prodej domu 198 m² s pozemkem 1 289 m²,"Anenská Studánka, okres Ústí nad Orlicí",,pardubicky-kraj,samostatný,cihlová,1289 m,198 m,unknown
+5,Prodej domu 198 m² s pozemkem 1 289 m²,"Anenská Studánka, okres Ústí nad Orlicí",,pardubicky-kraj,samostatný,cihlová,1289 m,,unknown
+6,Prodej domu 198 m² s pozemkem 1 289 m²,"Anenská Studánka, okres Ústí nad Orlicí",,pardubicky-kraj,samostatný,cihlová,,198 m,unknown
+7,Prodej domu 198 m² s pozemkem 1 289 m²,"Anenská Studánka, okres Ústí nad Orlicí",,pardubicky-kraj,samostatný,cihlová,,,unknown
+8,Pronájem obchodních prostor 73 m²,"Masarykovo náměstí, Přelouč, okres Pardubice",12 500,pardubicky-kraj,osobní,cihlová,,73 m,monthly
+9,Pronájem obchodních prostor 73 m²,"Masarykovo náměstí, Přelouč, okres Pardubice",12 500,pardubicky-kraj,osobní,cihlová,,,monthly
+10,Prodej domu 118 m² s pozemkem 285 m²,"K Zahrádkám, Srch, okres Pardubice",8 790 000,pardubicky-kraj,řadový,cihlová,285 m,118 m,total
+11,Prodej domu 118 m² s pozemkem 285 m²,"K Zahrádkám, Srch, okres Pardubice",8 790 000,pardubicky-kraj,řadový,cihlová,285 m,,total
+12,Prodej domu 118 m² s pozemkem 285 m²,"K Zahrádkám, Srch, okres Pardubice",8 790 000,pardubicky-kraj,řadový,cihlová,,118 m,total
+13,Prodej domu 118 m² s pozemkem 285 m²,"K Zahrádkám, Srch, okres Pardubice",8 790 000,pardubicky-kraj,řadový,cihlová,,,total
+14,Prodej stavebního pozemku 989 m²,"Vysoké Mýto - Svařeň, okres Ústí nad Orlicí",2 250 000,pardubicky-kraj,veřejný,osobní,,,total
+15,Prodej domu 3 154 m² s pozemkem 2 554 m²,"Vápenný Podol, okres Chrudim",,pardubicky-kraj,osobní,cihlová,2554 m,3154 m,unknown
+16,Prodej zahrady 588 m²,"Sosnová, okres Česká Lípa",600 000,liberecky-kraj,,588 m,,,total
+17,Prodej domu 3 154 m² s pozemkem 2 554 m²,"Vápenný Podol, okres Chrudim",,pardubicky-kraj,osobní,cihlová,2554 m,,unknown
+18,Prodej domu 3 154 m² s pozemkem 2 554 m²,"Vápenný Podol, okres Chrudim",,pardubicky-kraj,osobní,cihlová,,3154 m,unknown
+19,Prodej domu 3 154 m² s pozemkem 2 554 m²,"Vápenný Podol, okres Chrudim",,pardubicky-kraj,osobní,cihlová,,,unknown
+20,Pronájem bytu 3+1 73 m²,"Třebenická, Praha 8 - Kobylisy",15 000,praha,družstevní,panelová,,73 m,monthly
+21,Pronájem bytu 3+1 73 m²,"Třebenická, Praha 8 - Kobylisy",15 000,praha,družstevní,panelová,,,monthly
+22,Prodej stavebního pozemku 1 029 m²,"Šípková, Chomutov",2 490 180,ustecky-kraj,,1029 m,,,total
+23,Prodej bytu 3+kk 80 m²,"Slovenská, Chrudim - Chrudim II",4 450 000,pardubicky-kraj,dobrý stav,panelová,,80 m,total
+24,Prodej bytu 3+kk 80 m²,"Slovenská, Chrudim - Chrudim II",4 450 000,pardubicky-kraj,dobrý stav,panelová,,,total
+25,Prodej domu 120 m² s pozemkem 310 m²,"Václava Otty, Chleby, okres Nymburk",3 500 000,stredocesky-kraj,osobní,cihlová,310 m,120 m,total
+26,Prodej domu 120 m² s pozemkem 310 m²,"Václava Otty, Chleby, okres Nymburk",3 500 000,stredocesky-kraj,osobní,cihlová,310 m,,total
+27,Prodej domu 120 m² s pozemkem 310 m²,"Václava Otty, Chleby, okres Nymburk",3 500 000,stredocesky-kraj,osobní,cihlová,,120 m,total
+28,Prodej domu 120 m² s pozemkem 310 m²,"Václava Otty, Chleby, okres Nymburk",3 500 000,stredocesky-kraj,osobní,cihlová,,,total
+29,Pronájem bytu 1+1 42 m²,"Na Panský, Dolní Břežany, okres Praha-západ",10 500,stredocesky-kraj,osobní,cihlová,,42 m,monthly
+30,Pronájem bytu 1+1 42 m²,"Na Panský, Dolní Břežany, okres Praha-západ",10 500,stredocesky-kraj,osobní,cihlová,,,monthly
+31,Prodej stavebního pozemku 1 001 m²,"Žižice, okres Kladno",3 903 900,stredocesky-kraj,,1001 m,,,total
+32,Prodej chaty/chalupy 46 m² s pozemkem 430 m²,"Rudeč, Kostelec nad Labem, okres Mělník",2 650 000,stredocesky-kraj,samostatný,cihlová,430 m,46 m,total
+33,Prodej chaty/chalupy 46 m² s pozemkem 430 m²,"Rudeč, Kostelec nad Labem, okres Mělník",2 650 000,stredocesky-kraj,samostatný,cihlová,430 m,,total
+34,Prodej chaty/chalupy 46 m² s pozemkem 430 m²,"Rudeč, Kostelec nad Labem, okres Mělník",2 650 000,stredocesky-kraj,samostatný,cihlová,,46 m,total
+35,Prodej chaty/chalupy 46 m² s pozemkem 430 m²,"Rudeč, Kostelec nad Labem, okres Mělník",2 650 000,stredocesky-kraj,samostatný,cihlová,,,total
+36,Prodej bytu 2+kk 62 m²,"U Radnice, Odolena Voda, okres Praha-východ",4 990 000,stredocesky-kraj,družstevní,cihlová,,62 m,total
+37,Prodej bytu 2+kk 62 m²,"U Radnice, Odolena Voda, okres Praha-východ",4 990 000,stredocesky-kraj,družstevní,cihlová,,,total
+38,Prodej komerčního objektu (jiného typu) 372 m²,"Horní Vltavice, okres Prachatice",3 490 000,jihocesky-kraj,jiného typu,montovaná,1777 m,372 m,total
+39,Prodej komerčního objektu (jiného typu) 372 m²,"Horní Vltavice, okres Prachatice",3 490 000,jihocesky-kraj,jiného typu,montovaná,1777 m,,total
+40,Prodej komerčního objektu (jiného typu) 372 m²,"Horní Vltavice, okres Prachatice",3 490 000,jihocesky-kraj,jiného typu,montovaná,,372 m,total
+41,Prodej komerčního objektu (jiného typu) 372 m²,"Horní Vltavice, okres Prachatice",3 490 000,jihocesky-kraj,jiného typu,montovaná,,,total
+42,Pronájem bytu 3+kk 65 m²,"Pražská, Benátky nad Jizerou - Benátky nad Jizerou II, okres Mladá Boleslav",12 850,stredocesky-kraj,osobní,cihlová,,65 m,monthly
+43,Prodej louky 39 669 m²,"Putim, okres Písek",399 215 328 540,jihocesky-kraj,39669 m,osobní,,,total
+44,Prodej bytu 3+kk 87 m²,"U Sv. Markéty, Strakonice - Strakonice I",5 155 665,jihocesky-kraj,novostavba,cihlová,,87 m,total
+45,Pronájem bytu 3+kk 65 m²,"Pražská, Benátky nad Jizerou - Benátky nad Jizerou II, okres Mladá Boleslav",12 850,stredocesky-kraj,osobní,cihlová,,,monthly
+46,Prodej stavebního pozemku 3 884 m²,"Pětikozly, okres Mladá Boleslav",5 500 000,stredocesky-kraj,3884 m,osobní,,,total
+47,Prodej bytu 3+kk 87 m²,"U Sv. Markéty, Strakonice - Strakonice I",5 155 665,jihocesky-kraj,novostavba,cihlová,,,total
+48,Prodej bytu 2+kk 47 m²,"V Kaštánkách, Pečky, okres Kolín",3 790 000,stredocesky-kraj,osobní,panelová,,47 m,total
+49,Prodej domu 75 m² s pozemkem 588 m²,Strakonice - Strakonice I,3 590 000,jihocesky-kraj,samostatný,udržovaný,588 m,75 m,total
+50,Prodej zahrady 460 m²,"Svatava, okres Sokolov",850 000,karlovarsky-kraj,460 m,osobní,,,total
+51,Prodej stavebního pozemku 1 000 m²,"Lužany, okres Jičín",1 315 000,kralovehradecky-kraj,1000 m,osobní,,,total
+52,Prodej bytu 2+kk 47 m²,"V Kaštánkách, Pečky, okres Kolín",3 790 000,stredocesky-kraj,osobní,panelová,,,total
+53,Prodej stavebního pozemku 751 m²,"Chotoviny - Jeníčkova Lhota, okres Tábor",2 200 000,jihocesky-kraj,751 m,osobní,,,total
+54,Prodej domu 75 m² s pozemkem 588 m²,Strakonice - Strakonice I,3 590 000,jihocesky-kraj,samostatný,udržovaný,588 m,,total
+55,Prodej domu 75 m² s pozemkem 588 m²,Strakonice - Strakonice I,3 590 000,jihocesky-kraj,samostatný,udržovaný,,75 m,total
+56,Prodej domu 75 m² s pozemkem 588 m²,Strakonice - Strakonice I,3 590 000,jihocesky-kraj,samostatný,udržovaný,,,total
+57,Pronájem komerčního pozemku 18 899 m²,"Petrov, okres Hodonín",,jihomoravsky-kraj,18899 m,osobní,,,unknown
+58,Pronájem obchodních prostor 134 m²,"5. května, Humpolec, okres Pelhřimov",12 500,kraj-vysocina,osobní,cihlová,,134 m,monthly
+59,Pronájem obchodních prostor 134 m²,"5. května, Humpolec, okres Pelhřimov",12 500,kraj-vysocina,osobní,cihlová,,,monthly
+60,Pronájem bytu 2+kk 52 m²,"Příční, Střelice, okres Brno-venkov",13 500,jihomoravsky-kraj,osobní,cihlová,,52 m,monthly
+61,Pronájem bytu 1+kk 52 m²,"Spolková, Brno - Zábrdovice",12 000,jihomoravsky-kraj,osobní,cihlová,,52 m,monthly
+62,Pronájem bytu 3+kk 65 m²,"Chrlická, Brno - Tuřany",16 000,jihomoravsky-kraj,osobní,cihlová,,65 m,monthly
+63,Pronájem bytu 2+kk 52 m²,"Příční, Střelice, okres Brno-venkov",13 500,jihomoravsky-kraj,osobní,cihlová,,,monthly
+64,Pronájem bytu 1+kk 52 m²,"Spolková, Brno - Zábrdovice",12 000,jihomoravsky-kraj,osobní,cihlová,,,monthly
+65,Pronájem bytu 3+kk 65 m²,"Chrlická, Brno - Tuřany",16 000,jihomoravsky-kraj,osobní,cihlová,,,monthly
+66,Prodej zahrady 338 m²,"Za vodú, Hrušky, okres Břeclav",460 000,jihomoravsky-kraj,,osobní,,,total
+67,Prodej zahrady 3 595 m²,Brno - Kníničky,1 290 000,jihomoravsky-kraj,,3595 m,,,total
+68,Pronájem bytu 1+kk 30 m²,"Vltavská, Brno - Starý Lískovec",10 500,jihomoravsky-kraj,osobní,panelová,,30 m,monthly
+69,Pronájem bytu 1+kk 30 m²,"Vltavská, Brno - Starý Lískovec",10 500,jihomoravsky-kraj,osobní,panelová,,,monthly
+70,Pronájem bytu 1+kk 32 m²,"Kosíkova, Brno - Líšeň",9 900,jihomoravsky-kraj,osobní,panelová,,32 m,monthly
+71,Pronájem bytu 1+kk 32 m²,"Kosíkova, Brno - Líšeň",9 900,jihomoravsky-kraj,osobní,panelová,,,monthly
+72,Pronájem bytu 3+kk 57 m²,"Poděbradova, Brno - Ponava",17 500,jihomoravsky-kraj,osobní,cihlová,,57 m,monthly
+73,Pronájem bytu 3+kk 57 m²,"Poděbradova, Brno - Ponava",17 500,jihomoravsky-kraj,osobní,cihlová,,,monthly
+74,Prodej bytu 3+1 90 m²,"Veveří, Brno - Veveří",8 000 000,jihomoravsky-kraj,družstevní,cihlová,,90 m,total
+75,Prodej bytu 3+1 90 m²,"Veveří, Brno - Veveří",8 000 000,jihomoravsky-kraj,družstevní,cihlová,,,total
+76,Prodej bytu 1+kk 44 m²,"U Leskavy, Brno - Starý Lískovec",5 303 000,jihomoravsky-kraj,dobrý stav,cihlová,,44 m,total
+77,Pronájem skladovacích prostor 2 956 m²,"Trnkova, Brno - Líšeň",,jihomoravsky-kraj,skladovací prostory,smíšená,,2956 m,unknown
+78,Prodej bytu 1+kk 44 m²,"U Leskavy, Brno - Starý Lískovec",5 303 000,jihomoravsky-kraj,dobrý stav,cihlová,,,total
+79,Pronájem skladovacích prostor 2 956 m²,"Trnkova, Brno - Líšeň",,jihomoravsky-kraj,skladovací prostory,smíšená,,,unknown
+80,Prodej bytu 2+kk 151 m²,"Brněnská Pole, Šlapanice, okres Brno-venkov",5 890 000,jihomoravsky-kraj,osobní,cihlová,,151 m,total
+81,Prodej bytu 2+kk 151 m²,"Brněnská Pole, Šlapanice, okres Brno-venkov",5 890 000,jihomoravsky-kraj,osobní,cihlová,,,total
+82,Pronájem bytu 2+1 67 m²,"Botanická, Brno - Ponava",12 990,jihomoravsky-kraj,osobní,cihlová,,67 m,monthly
+83,Pronájem bytu 2+1 67 m²,"Botanická, Brno - Ponava",12 990,jihomoravsky-kraj,osobní,cihlová,,,monthly
+84,Pronájem kanceláře 23 m²,"Holandská, Brno - Štýřice",27 380,jihomoravsky-kraj,jiný,skeletová,,23 m,monthly
+85,Prodej domu 147 m² s pozemkem 172 m²,"Myslbekova, Brno - Židenice",13 250 000,jihomoravsky-kraj,řadový,cihlová,172 m,147 m,total
+86,Pronájem kanceláře 23 m²,"Holandská, Brno - Štýřice",27 380,jihomoravsky-kraj,jiný,skeletová,,,monthly
+87,Prodej domu 147 m² s pozemkem 172 m²,"Myslbekova, Brno - Židenice",13 250 000,jihomoravsky-kraj,řadový,cihlová,172 m,,total
+88,Prodej domu 147 m² s pozemkem 172 m²,"Myslbekova, Brno - Židenice",13 250 000,jihomoravsky-kraj,řadový,cihlová,,147 m,total
+89,Prodej domu 147 m² s pozemkem 172 m²,"Myslbekova, Brno - Židenice",13 250 000,jihomoravsky-kraj,řadový,cihlová,,,total
+90,Prodej domu 130 m² s pozemkem 135 m²,"Horní Valy, Ivanovice na Hané, okres Vyškov",2 600 000,jihomoravsky-kraj,osobní,cihlová,135 m,130 m,total
+91,Prodej domu 130 m² s pozemkem 135 m²,"Horní Valy, Ivanovice na Hané, okres Vyškov",2 600 000,jihomoravsky-kraj,osobní,cihlová,135 m,,total
+92,Prodej domu 130 m² s pozemkem 135 m²,"Horní Valy, Ivanovice na Hané, okres Vyškov",2 600 000,jihomoravsky-kraj,osobní,cihlová,,130 m,total
+93,Prodej domu 130 m² s pozemkem 135 m²,"Horní Valy, Ivanovice na Hané, okres Vyškov",2 600 000,jihomoravsky-kraj,osobní,cihlová,,,total
+94,Prodej domu 144 m² s pozemkem 237 m²,"Miroslavské Knínice, okres Znojmo",3 900 000,jihomoravsky-kraj,rohový,smíšená,237 m,144 m,total
+95,Prodej domu 144 m² s pozemkem 237 m²,"Miroslavské Knínice, okres Znojmo",3 900 000,jihomoravsky-kraj,rohový,smíšená,237 m,,total
+96,Prodej domu 144 m² s pozemkem 237 m²,"Miroslavské Knínice, okres Znojmo",3 900 000,jihomoravsky-kraj,rohový,smíšená,,144 m,total
+97,Prodej domu 144 m² s pozemkem 237 m²,"Miroslavské Knínice, okres Znojmo",3 900 000,jihomoravsky-kraj,rohový,smíšená,,,total
+98,Prodej bytu 2+kk 40 m²,"Na Větřáku, Jedovnice, okres Blansko",4 150 000,jihomoravsky-kraj,osobní,cihlová,,40 m,total
+99,Prodej bytu 2+kk 40 m²,"Na Větřáku, Jedovnice, okres Blansko",4 150 000,jihomoravsky-kraj,osobní,cihlová,,,total
+100,Prodej chaty/chalupy 228 m²,"Stárkov - Bystré, okres Náchod",6 900 000,kralovehradecky-kraj,osobní,cihlová,,228 m,total
+101,Prodej stavebního pozemku 6 383 m²,"Hronov, okres Náchod",3 990 000,kralovehradecky-kraj,,osobní,,,total
+102,Prodej chaty/chalupy 228 m²,"Stárkov - Bystré, okres Náchod",6 900 000,kralovehradecky-kraj,osobní,cihlová,,,total
+103,Prodej bytu 3+1 71 m²,"Filipova, Brno - Bystrc",7 759 000,jihomoravsky-kraj,71 m,panelová,,,total
+104,Pronájem kanceláře 198 m²,"Žižkova, Hořice, okres Jičín",32 000,kralovehradecky-kraj,kanceláře,cihlová,,198 m,monthly
+105,Pronájem kanceláře 198 m²,"Žižkova, Hořice, okres Jičín",32 000,kralovehradecky-kraj,kanceláře,cihlová,,,monthly
+106,Prodej domu 117 m² s pozemkem 1 292 m²,"Vápenická, Vrchlabí, okres Trutnov",11 174 000,kralovehradecky-kraj,jiný,cihlová,1292 m,117 m,total
+107,Prodej domu 230 m² s pozemkem 645 m²,"Rudník, okres Trutnov",4 990 000,kralovehradecky-kraj,osobní,cihlová,645 m,230 m,total
+108,Prodej domu 117 m² s pozemkem 1 292 m²,"Vápenická, Vrchlabí, okres Trutnov",11 174 000,kralovehradecky-kraj,jiný,cihlová,1292 m,,total
+109,Prodej domu 117 m² s pozemkem 1 292 m²,"Vápenická, Vrchlabí, okres Trutnov",11 174 000,kralovehradecky-kraj,jiný,cihlová,,117 m,total
+110,Prodej domu 117 m² s pozemkem 1 292 m²,"Vápenická, Vrchlabí, okres Trutnov",11 174 000,kralovehradecky-kraj,jiný,cihlová,,,total
+111,Prodej domu 230 m² s pozemkem 645 m²,"Rudník, okres Trutnov",4 990 000,kralovehradecky-kraj,osobní,cihlová,645 m,,total
+112,Prodej domu 230 m² s pozemkem 645 m²,"Rudník, okres Trutnov",4 990 000,kralovehradecky-kraj,osobní,cihlová,,230 m,total
+113,Prodej domu 230 m² s pozemkem 645 m²,"Rudník, okres Trutnov",4 990 000,kralovehradecky-kraj,osobní,cihlová,,,total
+114,Prodej zemědělského objektu 150 m²,"Jičíněves - Žitětín, okres Jičín",4 650 000,kralovehradecky-kraj,osobní,smíšená,,150 m,total
+115,Prodej zemědělského objektu 150 m²,"Jičíněves - Žitětín, okres Jičín",4 650 000,kralovehradecky-kraj,osobní,smíšená,,,total
+116,Prodej restaurace 568 m²,"Studnice, okres Náchod",5 900 000,kralovehradecky-kraj,osobní,smíšená,,568 m,total
+117,Pronájem skladovacích prostor 288 m²,"Bratří Štefanů, Hradec Králové - Slezské Předměstí",,kralovehradecky-kraj,skladovací prostory,skeletová,288 m,288 m,unknown
+118,Prodej restaurace 568 m²,"Studnice, okres Náchod",5 900 000,kralovehradecky-kraj,osobní,smíšená,,,total
+119,Pronájem skladovacích prostor 288 m²,"Bratří Štefanů, Hradec Králové - Slezské Předměstí",,kralovehradecky-kraj,skladovací prostory,skeletová,288 m,,unknown
+120,Pronájem skladovacích prostor 288 m²,"Bratří Štefanů, Hradec Králové - Slezské Předměstí",,kralovehradecky-kraj,skladovací prostory,skeletová,,288 m,unknown
+121,Pronájem skladovacích prostor 288 m²,"Bratří Štefanů, Hradec Králové - Slezské Předměstí",,kralovehradecky-kraj,skladovací prostory,skeletová,,,unknown
+122,Pronájem ubytovacího objektu 20 m²,"Koutníkova, Hradec Králové - Plotiště nad Labem",3 500,kralovehradecky-kraj,ubytovací objekty,dobrý stav,,20 m,monthly
+123,Pronájem ubytovacího objektu 20 m²,"Koutníkova, Hradec Králové - Plotiště nad Labem",3 500,kralovehradecky-kraj,ubytovací objekty,dobrý stav,,,monthly
+124,Prodej komerčního objektu (jiného typu) 230 m²,"Rudník, okres Trutnov",4 990 000,kralovehradecky-kraj,osobní,cihlová,,230 m,total
+125,Prodej komerčního objektu (jiného typu) 230 m²,"Rudník, okres Trutnov",4 990 000,kralovehradecky-kraj,osobní,cihlová,,,total
+126,Prodej domu 191 m² s pozemkem 1 369 m²,"J. Masaryka, Malé Svatoňovice, okres Trutnov",9 455 000,kralovehradecky-kraj,jiný,cihlová,1369 m,191 m,total
+127,Pronájem skladovacích prostor 7 047 m²,"Rychnovská, Solnice, okres Rychnov nad Kněžnou",,kralovehradecky-kraj,skladovací prostory,smíšená,,7047 m,unknown
+128,Prodej domu 191 m² s pozemkem 1 369 m²,"J. Masaryka, Malé Svatoňovice, okres Trutnov",9 455 000,kralovehradecky-kraj,jiný,cihlová,1369 m,,total
+129,Prodej domu 191 m² s pozemkem 1 369 m²,"J. Masaryka, Malé Svatoňovice, okres Trutnov",9 455 000,kralovehradecky-kraj,jiný,cihlová,,191 m,total
+130,Prodej domu 191 m² s pozemkem 1 369 m²,"J. Masaryka, Malé Svatoňovice, okres Trutnov",9 455 000,kralovehradecky-kraj,jiný,cihlová,,,total
+131,Pronájem skladovacích prostor 7 047 m²,"Rychnovská, Solnice, okres Rychnov nad Kněžnou",,kralovehradecky-kraj,skladovací prostory,smíšená,,,unknown
+132,Pronájem ubytovacího objektu,"Třída Čsl. armády, Nový Bydžov, okres Hradec Králové",5 000,kralovehradecky-kraj,osobní,cihlová,,,monthly
+133,Pronájem bytu 2+1 91 m²,"Třída Čsl. armády, Nový Bydžov, okres Hradec Králové",9 000,kralovehradecky-kraj,dobrý stav,cihlová,,91 m,monthly
+134,Prodej pozemku 4 511 m²,"K Dolíkám, Hradec Králové - Svobodné Dvory",,kralovehradecky-kraj,,osobní,,,unknown
+135,Pronájem bytu 2+1 91 m²,"Třída Čsl. armády, Nový Bydžov, okres Hradec Králové",9 000,kralovehradecky-kraj,dobrý stav,cihlová,,,monthly
+136,Prodej chaty/chalupy 372 m² s pozemkem 8 542 m²,"Chotěvice, okres Trutnov",9 890 000,kralovehradecky-kraj,jiný,cihlová,8542 m,372 m,total
+137,Prodej chaty/chalupy 372 m² s pozemkem 8 542 m²,"Chotěvice, okres Trutnov",9 890 000,kralovehradecky-kraj,jiný,cihlová,8542 m,,total
+138,Prodej chaty/chalupy 372 m² s pozemkem 8 542 m²,"Chotěvice, okres Trutnov",9 890 000,kralovehradecky-kraj,jiný,cihlová,,372 m,total
+139,Prodej chaty/chalupy 372 m² s pozemkem 8 542 m²,"Chotěvice, okres Trutnov",9 890 000,kralovehradecky-kraj,jiný,cihlová,,,total
+140,Prodej pole 8 000 m²,"K Břízkám, Hradec Králové - Malšova Lhota",,kralovehradecky-kraj,8000 m,osobní,,,unknown
+141,Prodej pole 5 167 m²,"K Dolíkám, Hradec Králové - Svobodné Dvory",,kralovehradecky-kraj,5167 m,osobní,,,unknown
+142,Prodej bytu 1+1 40 m²,"Břevnická, Chotěboř, okres Havlíčkův Brod",2 190 000,kraj-vysocina,družstevní,panelová,,40 m,total
+143,Prodej bytu 1+1 40 m²,"Břevnická, Chotěboř, okres Havlíčkův Brod",2 190 000,kraj-vysocina,družstevní,panelová,,,total
+144,Pronájem obchodních prostor 351 m²,"Novoměstská, Žďár nad Sázavou - Žďár nad Sázavou 1",,kraj-vysocina,osobní,smíšená,,351 m,unknown
+145,Pronájem obchodních prostor 351 m²,"Novoměstská, Žďár nad Sázavou - Žďár nad Sázavou 1",,kraj-vysocina,osobní,smíšená,,,unknown
+146,Prodej domu 100 m² s pozemkem 1 312 m²,"Velká Chyška, okres Pelhřimov",990 000,kraj-vysocina,osobní,smíšená,1312 m,100 m,total
+147,Prodej domu 100 m² s pozemkem 1 312 m²,"Velká Chyška, okres Pelhřimov",990 000,kraj-vysocina,osobní,smíšená,1312 m,,total
+148,Prodej domu 100 m² s pozemkem 1 312 m²,"Velká Chyška, okres Pelhřimov",990 000,kraj-vysocina,osobní,smíšená,,100 m,total
+149,Prodej domu 100 m² s pozemkem 1 312 m²,"Velká Chyška, okres Pelhřimov",990 000,kraj-vysocina,osobní,smíšená,,,total
+150,Prodej domu 194 m² s pozemkem 738 m²,"Michalovice, okres Havlíčkův Brod",6 990 000,kraj-vysocina,osobní,cihlová,738 m,194 m,total
+151,Prodej domu 158 m² s pozemkem 281 m²,"Boženy Němcové, Borohrádek, okres Rychnov nad Kněžnou",3 590 000,kralovehradecky-kraj,řadový,cihlová,281 m,158 m,total
+152,Prodej domu 194 m² s pozemkem 738 m²,"Michalovice, okres Havlíčkův Brod",6 990 000,kraj-vysocina,osobní,cihlová,738 m,,total
+153,Prodej domu 194 m² s pozemkem 738 m²,"Michalovice, okres Havlíčkův Brod",6 990 000,kraj-vysocina,osobní,cihlová,,194 m,total
+154,Prodej domu 194 m² s pozemkem 738 m²,"Michalovice, okres Havlíčkův Brod",6 990 000,kraj-vysocina,osobní,cihlová,,,total
+155,Prodej domu 158 m² s pozemkem 281 m²,"Boženy Němcové, Borohrádek, okres Rychnov nad Kněžnou",3 590 000,kralovehradecky-kraj,řadový,cihlová,281 m,,total
+156,Prodej domu 158 m² s pozemkem 281 m²,"Boženy Němcové, Borohrádek, okres Rychnov nad Kněžnou",3 590 000,kralovehradecky-kraj,řadový,cihlová,,158 m,total
+157,Prodej domu 158 m² s pozemkem 281 m²,"Boženy Němcové, Borohrádek, okres Rychnov nad Kněžnou",3 590 000,kralovehradecky-kraj,řadový,cihlová,,,total
+158,Pronájem kanceláře 1 040 m²,"U Dlouhé stěny, Jihlava",75 000,kraj-vysocina,osobní,cihlová,,1040 m,monthly
+159,Pronájem kanceláře 1 040 m²,"U Dlouhé stěny, Jihlava",75 000,kraj-vysocina,osobní,cihlová,,,monthly
+160,Pronájem kanceláře 760 m²,"U Dlouhé stěny, Jihlava",68 000,kraj-vysocina,osobní,cihlová,,760 m,monthly
+161,Pronájem kanceláře 760 m²,"U Dlouhé stěny, Jihlava",68 000,kraj-vysocina,osobní,cihlová,,,monthly
+162,Pronájem bytu 2+1 55 m²,"Mikuláškova, Třebíč - Nové Dvory",10 000,kraj-vysocina,osobní,panelová,,55 m,monthly
+163,Pronájem bytu 2+1 55 m²,"Mikuláškova, Třebíč - Nové Dvory",10 000,kraj-vysocina,osobní,panelová,,,monthly
+164,Prodej domu 173 m² s pozemkem 610 m²,"Střítež, okres Jihlava",,kraj-vysocina,v bloku,smíšená,610 m,173 m,unknown
+165,Prodej domu 173 m² s pozemkem 610 m²,"Střítež, okres Jihlava",,kraj-vysocina,v bloku,smíšená,610 m,,unknown
+166,Prodej domu 173 m² s pozemkem 610 m²,"Střítež, okres Jihlava",,kraj-vysocina,v bloku,smíšená,,173 m,unknown
+167,Prodej domu 173 m² s pozemkem 610 m²,"Střítež, okres Jihlava",,kraj-vysocina,v bloku,smíšená,,,unknown
+168,Prodej domu 820 m² s pozemkem 1 591 m²,"Senožaty, okres Pelhřimov",7 990 000,kraj-vysocina,osobní,smíšená,1591 m,820 m,total
+169,Prodej domu 820 m² s pozemkem 1 591 m²,"Senožaty, okres Pelhřimov",7 990 000,kraj-vysocina,osobní,smíšená,1591 m,,total
+170,Prodej domu 820 m² s pozemkem 1 591 m²,"Senožaty, okres Pelhřimov",7 990 000,kraj-vysocina,osobní,smíšená,,820 m,total
+171,Prodej domu 820 m² s pozemkem 1 591 m²,"Senožaty, okres Pelhřimov",7 990 000,kraj-vysocina,osobní,smíšená,,,total
+172,Pronájem bytu 2+kk 52 m²,"Habrová, Pelhřimov",10 000,kraj-vysocina,novostavba,cihlová,,52 m,monthly
+173,Pronájem bytu 2+kk 52 m²,"Habrová, Pelhřimov",10 000,kraj-vysocina,novostavba,cihlová,,,monthly
+174,Pronájem bytu 2+1 59 m²,"Barvířská, Třešť, okres Jihlava",8 000,kraj-vysocina,osobní,panelová,,59 m,monthly
+175,Prodej pole 18 251 m²,"Kaliště - Holušice, okres Pelhřimov",620 534,kraj-vysocina,,osobní,,,total
+176,Pronájem bytu 2+1 59 m²,"Barvířská, Třešť, okres Jihlava",8 000,kraj-vysocina,osobní,panelová,,,monthly
+177,Prodej bytu 3+1 76 m²,"Haškova, Žďár nad Sázavou - Žďár nad Sázavou 6",4 499 000,kraj-vysocina,osobní,panelová,,76 m,total
+178,Prodej bytu 3+1 76 m²,"Haškova, Žďár nad Sázavou - Žďár nad Sázavou 6",4 499 000,kraj-vysocina,osobní,panelová,,,total
+179,Prodej domu 100 m² s pozemkem 4 582 m²,"Bělá, okres Havlíčkův Brod",4 500 000,kraj-vysocina,osobní,smíšená,4582 m,100 m,total
+180,Prodej domu 100 m² s pozemkem 4 582 m²,"Bělá, okres Havlíčkův Brod",4 500 000,kraj-vysocina,osobní,smíšená,4582 m,,total
+181,Prodej domu 100 m² s pozemkem 4 582 m²,"Bělá, okres Havlíčkův Brod",4 500 000,kraj-vysocina,osobní,smíšená,,100 m,total
+182,Prodej domu 100 m² s pozemkem 4 582 m²,"Bělá, okres Havlíčkův Brod",4 500 000,kraj-vysocina,osobní,smíšená,,,total
+183,Prodej chaty/chalupy 40 m² s pozemkem 387 m²,"Rušinov - Vratkov, okres Havlíčkův Brod",,kraj-vysocina,osobní,dřevěná,387 m,40 m,unknown
+184,Prodej chaty/chalupy 40 m² s pozemkem 387 m²,"Rušinov - Vratkov, okres Havlíčkův Brod",,kraj-vysocina,osobní,dřevěná,387 m,,unknown
+185,Prodej chaty/chalupy 40 m² s pozemkem 387 m²,"Rušinov - Vratkov, okres Havlíčkův Brod",,kraj-vysocina,osobní,dřevěná,,40 m,unknown
+186,Prodej chaty/chalupy 40 m² s pozemkem 387 m²,"Rušinov - Vratkov, okres Havlíčkův Brod",,kraj-vysocina,osobní,dřevěná,,,unknown
+187,Pronájem obchodních prostor 8 m²,"Komenského, Humpolec, okres Pelhřimov",15 000,kraj-vysocina,osobní,cihlová,,8 m,monthly
+188,Pronájem obchodních prostor 8 m²,"Komenského, Humpolec, okres Pelhřimov",15 000,kraj-vysocina,osobní,cihlová,,,monthly
+189,Prodej domu 62 m² s pozemkem 1 493 m²,"Loukovice, okres Třebíč",3 393 600,kraj-vysocina,osobní,cihlová,1493 m,62 m,total
+190,Prodej domu 62 m² s pozemkem 1 493 m²,"Loukovice, okres Třebíč",3 393 600,kraj-vysocina,osobní,cihlová,1493 m,,total
+191,Prodej domu 62 m² s pozemkem 1 493 m²,"Loukovice, okres Třebíč",3 393 600,kraj-vysocina,osobní,cihlová,,62 m,total
+192,Prodej domu 62 m² s pozemkem 1 493 m²,"Loukovice, okres Třebíč",3 393 600,kraj-vysocina,osobní,cihlová,,,total
+193,Prodej bytu 4+1 80 m²,"K. Chocholy, České Budějovice - České Budějovice 2",4 260 000,jihocesky-kraj,družstevní,panelová,,80 m,total
+194,Prodej bytu 4+1 80 m²,"K. Chocholy, České Budějovice - České Budějovice 2",4 260 000,jihocesky-kraj,družstevní,panelová,,,total
+195,Prodej domu 108 m² s pozemkem 259 m²,"Mýtní, Stráž nad Nežárkou, okres Jindřichův Hradec",3 500 000,jihocesky-kraj,osobní,smíšená,259 m,108 m,total
+196,Prodej domu 108 m² s pozemkem 259 m²,"Mýtní, Stráž nad Nežárkou, okres Jindřichův Hradec",3 500 000,jihocesky-kraj,osobní,smíšená,259 m,,total
+197,Prodej domu 108 m² s pozemkem 259 m²,"Mýtní, Stráž nad Nežárkou, okres Jindřichův Hradec",3 500 000,jihocesky-kraj,osobní,smíšená,,108 m,total
+198,Prodej domu 108 m² s pozemkem 259 m²,"Mýtní, Stráž nad Nežárkou, okres Jindřichův Hradec",3 500 000,jihocesky-kraj,osobní,smíšená,,,total
+199,Prodej domu 456 m² s pozemkem 2 131 m²,"Velké Meziříčí - Hrbov, okres Žďár nad Sázavou",11 397 485,kraj-vysocina,osobní,cihlová,2131 m,456 m,total
+200,Prodej domu 456 m² s pozemkem 2 131 m²,"Velké Meziříčí - Hrbov, okres Žďár nad Sázavou",11 397 485,kraj-vysocina,osobní,cihlová,2131 m,,total
+201,Prodej domu 456 m² s pozemkem 2 131 m²,"Velké Meziříčí - Hrbov, okres Žďár nad Sázavou",11 397 485,kraj-vysocina,osobní,cihlová,,456 m,total
+202,Prodej domu 456 m² s pozemkem 2 131 m²,"Velké Meziříčí - Hrbov, okres Žďár nad Sázavou",11 397 485,kraj-vysocina,osobní,cihlová,,,total
+203,Prodej komerčního objektu (jiného typu) 476 m²,"5. května, Humpolec, okres Pelhřimov",13 490 000,kraj-vysocina,osobní,smíšená,,476 m,total
+204,Prodej komerčního objektu (jiného typu) 476 m²,"5. května, Humpolec, okres Pelhřimov",13 490 000,kraj-vysocina,osobní,smíšená,,,total
+205,Pronájem bytu 3+1 69 m²,"Třeboň - Třeboň II, okres Jindřichův Hradec",13 000,jihocesky-kraj,dobrý stav,smíšená,,69 m,monthly
+206,Prodej zemědělského objektu 4 943 m²,"Omlenice, okres Český Krumlov",10 000 000,jihocesky-kraj,jiný,smíšená,,4943 m,total
+207,Pronájem bytu 3+1 69 m²,"Třeboň - Třeboň II, okres Jindřichův Hradec",13 000,jihocesky-kraj,dobrý stav,smíšená,,,monthly
+208,Prodej zemědělského objektu 4 943 m²,"Omlenice, okres Český Krumlov",10 000 000,jihocesky-kraj,jiný,smíšená,,,total
+209,Prodej stavebního pozemku 900 m²,"U Třech svatých, Kájov, okres Český Krumlov",3 700 000,jihocesky-kraj,zavedena,osobní,,,total
+210,Prodej domu 171 m² s pozemkem 171 m²,"Nábřežní, Boršov nad Vltavou, okres České Budějovice",8 500 000,jihocesky-kraj,v bloku,cihlová,171 m,171 m,total
+211,Prodej bytu 5+1 215 m²,"Rudolfovská tř., České Budějovice - České Budějovice 6",14 900 000,jihocesky-kraj,osobní,cihlová,,215 m,total
+212,Prodej domu 171 m² s pozemkem 171 m²,"Nábřežní, Boršov nad Vltavou, okres České Budějovice",8 500 000,jihocesky-kraj,v bloku,cihlová,171 m,,total
+213,Prodej domu 171 m² s pozemkem 171 m²,"Nábřežní, Boršov nad Vltavou, okres České Budějovice",8 500 000,jihocesky-kraj,v bloku,cihlová,,171 m,total
+214,Prodej domu 171 m² s pozemkem 171 m²,"Nábřežní, Boršov nad Vltavou, okres České Budějovice",8 500 000,jihocesky-kraj,v bloku,cihlová,,,total
+215,Prodej bytu 5+1 215 m²,"Rudolfovská tř., České Budějovice - České Budějovice 6",14 900 000,jihocesky-kraj,osobní,cihlová,,,total
+216,Prodej ubytovacího objektu 400 m²,"Husova, Třeboň - Třeboň I, okres Jindřichův Hradec",18 900 000,jihocesky-kraj,ubytovací objekty,smíšená,194 m,400 m,total
+217,Prodej ubytovacího objektu 400 m²,"Husova, Třeboň - Třeboň I, okres Jindřichův Hradec",18 900 000,jihocesky-kraj,ubytovací objekty,smíšená,194 m,,total
+218,Prodej ubytovacího objektu 400 m²,"Husova, Třeboň - Třeboň I, okres Jindřichův Hradec",18 900 000,jihocesky-kraj,ubytovací objekty,smíšená,,400 m,total
+219,Prodej ubytovacího objektu 400 m²,"Husova, Třeboň - Třeboň I, okres Jindřichův Hradec",18 900 000,jihocesky-kraj,ubytovací objekty,smíšená,,,total
+220,Prodej bytu 3+1 61 m²,"Plzeňská, České Budějovice - České Budějovice 3",4 890 000,jihocesky-kraj,osobní,panelová,,61 m,total
+221,Pronájem bytu 2+1 61 m²,"Tovární, Jindřichův Hradec - Jindřichův Hradec II",13 000,jihocesky-kraj,osobní,cihlová,,61 m,monthly
+222,Prodej bytu 3+1 61 m²,"Plzeňská, České Budějovice - České Budějovice 3",4 890 000,jihocesky-kraj,osobní,panelová,,,total
+223,Pronájem bytu 2+1 61 m²,"Tovární, Jindřichův Hradec - Jindřichův Hradec II",13 000,jihocesky-kraj,osobní,cihlová,,,monthly
+224,Prodej bytu 2+kk 50 m²,"Fr. Hrubína, České Budějovice - České Budějovice 3",5 190 000,jihocesky-kraj,osobní,cihlová,,50 m,total
+225,Prodej domu 105 m² s pozemkem 1 928 m²,"Bednárec, okres Jindřichův Hradec",1 690 000,jihocesky-kraj,samostatný,cihlová,1928 m,105 m,total
+226,Prodej bytu 2+kk 50 m²,"Fr. Hrubína, České Budějovice - České Budějovice 3",5 190 000,jihocesky-kraj,osobní,cihlová,,,total
+227,Pronájem domu 118 m² s pozemkem 114 m²,"Stará cesta, Jindřichův Hradec - Jindřichův Hradec II",13 000,jihocesky-kraj,řadový,cihlová,114 m,118 m,monthly
+228,Prodej domu 105 m² s pozemkem 1 928 m²,"Bednárec, okres Jindřichův Hradec",1 690 000,jihocesky-kraj,samostatný,cihlová,1928 m,,total
+229,Prodej domu 105 m² s pozemkem 1 928 m²,"Bednárec, okres Jindřichův Hradec",1 690 000,jihocesky-kraj,samostatný,cihlová,,105 m,total
+230,Prodej domu 105 m² s pozemkem 1 928 m²,"Bednárec, okres Jindřichův Hradec",1 690 000,jihocesky-kraj,samostatný,cihlová,,,total
+231,"Prodej nájemního domu, činžáku 622 m²","Zlatá stezka, Prachatice - Prachatice II",,jihocesky-kraj,"nájemní dům, činžák",cihlová,735 m,622 m,unknown
+232,Pronájem domu 118 m² s pozemkem 114 m²,"Stará cesta, Jindřichův Hradec - Jindřichův Hradec II",13 000,jihocesky-kraj,řadový,cihlová,114 m,,monthly
+233,Pronájem domu 118 m² s pozemkem 114 m²,"Stará cesta, Jindřichův Hradec - Jindřichův Hradec II",13 000,jihocesky-kraj,řadový,cihlová,,118 m,monthly
+234,Pronájem domu 118 m² s pozemkem 114 m²,"Stará cesta, Jindřichův Hradec - Jindřichův Hradec II",13 000,jihocesky-kraj,řadový,cihlová,,,monthly
+235,Prodej domu 95 m² s pozemkem 1 589 m²,"Smilovy Hory - Malý Ježov, okres Tábor",4 500 000,jihocesky-kraj,osobní,kamenná,1589 m,95 m,total
+236,"Prodej nájemního domu, činžáku 622 m²","Zlatá stezka, Prachatice - Prachatice II",,jihocesky-kraj,"nájemní dům, činžák",cihlová,735 m,,unknown
+237,"Prodej nájemního domu, činžáku 622 m²","Zlatá stezka, Prachatice - Prachatice II",,jihocesky-kraj,"nájemní dům, činžák",cihlová,,622 m,unknown
+238,"Prodej nájemního domu, činžáku 622 m²","Zlatá stezka, Prachatice - Prachatice II",,jihocesky-kraj,"nájemní dům, činžák",cihlová,,,unknown
+239,Prodej domu 95 m² s pozemkem 1 589 m²,"Smilovy Hory - Malý Ježov, okres Tábor",4 500 000,jihocesky-kraj,osobní,kamenná,1589 m,,total
+240,Prodej domu 95 m² s pozemkem 1 589 m²,"Smilovy Hory - Malý Ježov, okres Tábor",4 500 000,jihocesky-kraj,osobní,kamenná,,95 m,total
+241,Prodej domu 95 m² s pozemkem 1 589 m²,"Smilovy Hory - Malý Ježov, okres Tábor",4 500 000,jihocesky-kraj,osobní,kamenná,,,total
+242,Prodej bytu 4+1 150 m²,"Moravská, Karlovy Vary",4 200 000,karlovarsky-kraj,po rekonstrukci,cihlová,,150 m,total
+243,Prodej bytu 4+1 150 m²,"Moravská, Karlovy Vary",4 200 000,karlovarsky-kraj,po rekonstrukci,cihlová,,,total
+244,Prodej domu 232 m² s pozemkem 1 500 m²,"Tři Sekery - Krásné, okres Cheb",2 280 000,karlovarsky-kraj,osobní,cihlová,1500 m,232 m,total
+245,Prodej domu 232 m² s pozemkem 1 500 m²,"Tři Sekery - Krásné, okres Cheb",2 280 000,karlovarsky-kraj,osobní,cihlová,1500 m,,total
+246,Prodej domu 232 m² s pozemkem 1 500 m²,"Tři Sekery - Krásné, okres Cheb",2 280 000,karlovarsky-kraj,osobní,cihlová,,232 m,total
+247,Prodej domu 232 m² s pozemkem 1 500 m²,"Tři Sekery - Krásné, okres Cheb",2 280 000,karlovarsky-kraj,osobní,cihlová,,,total
+248,Prodej bytu 3+kk 84 m²,"Plzeňská, Mariánské Lázně - Úšovice, okres Cheb",4 495 000,karlovarsky-kraj,osobní,cihlová,,84 m,total
+249,Prodej bytu 3+1 60 m²,"Rolavská, Nejdek, okres Karlovy Vary",1 690 000,karlovarsky-kraj,osobní,panelová,,60 m,total
+250,Pronájem bytu 2+1 67 m²,"Na Výsluní, Mariánské Lázně - Úšovice, okres Cheb",13 000,karlovarsky-kraj,po rekonstrukci,panelová,,67 m,monthly
+251,Prodej bytu 3+kk 84 m²,"Plzeňská, Mariánské Lázně - Úšovice, okres Cheb",4 495 000,karlovarsky-kraj,osobní,cihlová,,,total
+252,Prodej bytu 3+1 60 m²,"Rolavská, Nejdek, okres Karlovy Vary",1 690 000,karlovarsky-kraj,osobní,panelová,,,total
+253,Pronájem bytu 2+1 67 m²,"Na Výsluní, Mariánské Lázně - Úšovice, okres Cheb",13 000,karlovarsky-kraj,po rekonstrukci,panelová,,,monthly
+254,Pronájem bytu 3+1 70 m²,"Zámecký vrch, Karlovy Vary",8 500,karlovarsky-kraj,osobní,cihlová,,70 m,monthly
+255,Prodej výrobních prostor 352 m²,"Hory, okres Karlovy Vary",5 500 000,karlovarsky-kraj,výrobní prostory,cihlová,352 m,352 m,total
+256,Pronájem bytu 3+1 70 m²,"Zámecký vrch, Karlovy Vary",8 500,karlovarsky-kraj,osobní,cihlová,,,monthly
+257,Prodej výrobních prostor 352 m²,"Hory, okres Karlovy Vary",5 500 000,karlovarsky-kraj,výrobní prostory,cihlová,352 m,,total
+258,Prodej výrobních prostor 352 m²,"Hory, okres Karlovy Vary",5 500 000,karlovarsky-kraj,výrobní prostory,cihlová,,352 m,total
+259,Prodej výrobních prostor 352 m²,"Hory, okres Karlovy Vary",5 500 000,karlovarsky-kraj,výrobní prostory,cihlová,,,total
+260,Prodej bytu 2+kk 84 m²,"Dřevěná, Mariánské Lázně, okres Cheb",2 250 000,karlovarsky-kraj,dobrý stav,cihlová,,84 m,total
+261,Prodej bytu 2+kk 84 m²,"Dřevěná, Mariánské Lázně, okres Cheb",2 250 000,karlovarsky-kraj,dobrý stav,cihlová,,,total
+262,Prodej domu 124 m² s pozemkem 1 128 m²,"Šabina, okres Sokolov",6 500 000,karlovarsky-kraj,osobní,cihlová,1128 m,124 m,total
+263,Prodej domu 124 m² s pozemkem 1 128 m²,"Šabina, okres Sokolov",6 500 000,karlovarsky-kraj,osobní,cihlová,1128 m,,total
+264,Prodej domu 124 m² s pozemkem 1 128 m²,"Šabina, okres Sokolov",6 500 000,karlovarsky-kraj,osobní,cihlová,,124 m,total
+265,Prodej domu 124 m² s pozemkem 1 128 m²,"Šabina, okres Sokolov",6 500 000,karlovarsky-kraj,osobní,cihlová,,,total
+266,Prodej domu 150 m² s pozemkem 822 m²,"Trstěnice, okres Cheb",2 750 000,karlovarsky-kraj,osobní,cihlová,822 m,150 m,total
+267,Prodej domu 75 m² s pozemkem 662 m²,"Jindřichovice, okres Sokolov",2 599 000,karlovarsky-kraj,osobní,cihlová,662 m,75 m,total
+268,Prodej ubytovacího objektu 400 m²,"Hlavní, Aš, okres Cheb",5 775 000,karlovarsky-kraj,osobní,cihlová,,400 m,total
+269,Prodej domu 150 m² s pozemkem 822 m²,"Trstěnice, okres Cheb",2 750 000,karlovarsky-kraj,osobní,cihlová,822 m,,total
+270,Prodej domu 150 m² s pozemkem 822 m²,"Trstěnice, okres Cheb",2 750 000,karlovarsky-kraj,osobní,cihlová,,150 m,total
+271,Prodej domu 150 m² s pozemkem 822 m²,"Trstěnice, okres Cheb",2 750 000,karlovarsky-kraj,osobní,cihlová,,,total
+272,Prodej domu 75 m² s pozemkem 662 m²,"Jindřichovice, okres Sokolov",2 599 000,karlovarsky-kraj,osobní,cihlová,662 m,,total
+273,Prodej domu 75 m² s pozemkem 662 m²,"Jindřichovice, okres Sokolov",2 599 000,karlovarsky-kraj,osobní,cihlová,,75 m,total
+274,Prodej domu 75 m² s pozemkem 662 m²,"Jindřichovice, okres Sokolov",2 599 000,karlovarsky-kraj,osobní,cihlová,,,total
+275,Prodej ubytovacího objektu 400 m²,"Hlavní, Aš, okres Cheb",5 775 000,karlovarsky-kraj,osobní,cihlová,,,total
+276,Prodej bytu 3+1 61 m²,"Hlávkova, Karlovy Vary - Stará Role",2 650 000,karlovarsky-kraj,po rekonstrukci,panelová,,61 m,total
+277,Prodej bytu 3+1 61 m²,"Hlávkova, Karlovy Vary - Stará Role",2 650 000,karlovarsky-kraj,po rekonstrukci,panelová,,,total
+278,Prodej domu 370 m² s pozemkem 682 m²,"Za Školou, Mariánské Lázně - Úšovice, okres Cheb",9 990 000,karlovarsky-kraj,osobní,cihlová,682 m,370 m,total
+279,Prodej domu 370 m² s pozemkem 682 m²,"Za Školou, Mariánské Lázně - Úšovice, okres Cheb",9 990 000,karlovarsky-kraj,osobní,cihlová,682 m,,total
+280,Prodej domu 370 m² s pozemkem 682 m²,"Za Školou, Mariánské Lázně - Úšovice, okres Cheb",9 990 000,karlovarsky-kraj,osobní,cihlová,,370 m,total
+281,Prodej domu 370 m² s pozemkem 682 m²,"Za Školou, Mariánské Lázně - Úšovice, okres Cheb",9 990 000,karlovarsky-kraj,osobní,cihlová,,,total
+282,Pronájem bytu 1+1 40 m²,"Franze Kafky, Mariánské Lázně - Úšovice, okres Cheb",7 000,karlovarsky-kraj,dobrý stav,cihlová,,40 m,monthly
+283,Prodej domu 187 m² s pozemkem 1 072 m²,"Na Stráni, Valy, okres Cheb",8 001 000,karlovarsky-kraj,jiný,cihlová,1072 m,187 m,total
+284,Prodej bytu 1+kk 155 m²,"Sokolská, Zábřeh, okres Šumperk",6 100 000,olomoucky-kraj,dobrý stav,cihlová,,155 m,total
+285,Pronájem bytu 1+1 40 m²,"Franze Kafky, Mariánské Lázně - Úšovice, okres Cheb",7 000,karlovarsky-kraj,dobrý stav,cihlová,,,monthly
+286,Prodej domu 187 m² s pozemkem 1 072 m²,"Na Stráni, Valy, okres Cheb",8 001 000,karlovarsky-kraj,jiný,cihlová,1072 m,,total
+287,Prodej domu 187 m² s pozemkem 1 072 m²,"Na Stráni, Valy, okres Cheb",8 001 000,karlovarsky-kraj,jiný,cihlová,,187 m,total
+288,Prodej domu 187 m² s pozemkem 1 072 m²,"Na Stráni, Valy, okres Cheb",8 001 000,karlovarsky-kraj,jiný,cihlová,,,total
+289,Prodej bytu 1+kk 155 m²,"Sokolská, Zábřeh, okres Šumperk",6 100 000,olomoucky-kraj,dobrý stav,cihlová,,,total
+290,Prodej bytu 2+1 54 m²,"Čs. armády, Kraslice, okres Sokolov",999 999,karlovarsky-kraj,dobrý stav,cihlová,,54 m,total
+291,Prodej domu 496 m² s pozemkem 959 m²,"Tyršova, Karlovy Vary",,karlovarsky-kraj,osobní,cihlová,959 m,496 m,unknown
+292,Prodej bytu 2+1 54 m²,"Čs. armády, Kraslice, okres Sokolov",999 999,karlovarsky-kraj,dobrý stav,cihlová,,,total
+293,Prodej domu 496 m² s pozemkem 959 m²,"Tyršova, Karlovy Vary",,karlovarsky-kraj,osobní,cihlová,959 m,,unknown
+294,Prodej domu 496 m² s pozemkem 959 m²,"Tyršova, Karlovy Vary",,karlovarsky-kraj,osobní,cihlová,,496 m,unknown
+295,Prodej domu 496 m² s pozemkem 959 m²,"Tyršova, Karlovy Vary",,karlovarsky-kraj,osobní,cihlová,,,unknown
+296,Pronájem bytu 2+1 49 m²,"Havlíčkova, Karlovy Vary",12 000,karlovarsky-kraj,dobrý stav,cihlová,,49 m,monthly
+297,Pronájem bytu 2+1 49 m²,"Havlíčkova, Karlovy Vary",12 000,karlovarsky-kraj,dobrý stav,cihlová,,,monthly
+298,Pronájem bytu 2+kk 45 m²,"Masarykova třída, Olomouc",360 000,olomoucky-kraj,45 m,osobní,,,monthly
+299,Prodej pozemku 378 m²,Jeseník,413 000,olomoucky-kraj,378 m,osobní,,,total
+300,Prodej pole 3 501 m²,"Ondratice, okres Prostějov",131 000,olomoucky-kraj,,samota,,,total
+301,Pronájem bytu 2+1 54 m²,"Nádražní, Přerov - Přerov I-Město",9 000,olomoucky-kraj,osobní,cihlová,,54 m,monthly
+302,Pronájem bytu 2+1 54 m²,"Nádražní, Přerov - Přerov I-Město",9 000,olomoucky-kraj,osobní,cihlová,,,monthly
+303,Prodej chaty/chalupy 55 m² s pozemkem 56 m²,"Olomoucká, Hlubočky, okres Olomouc",3 990 000,olomoucky-kraj,samostatný,skeletová,56 m,,total
+304,Pronájem bytu 1+kk 23 m²,"Politických vězňů, Olomouc - Neředín",7 000,olomoucky-kraj,osobní,panelová,,23 m,monthly
+305,Prodej chaty/chalupy 55 m² s pozemkem 56 m²,"Olomoucká, Hlubočky, okres Olomouc",3 990 000,olomoucky-kraj,samostatný,skeletová,,,total
+306,Pronájem bytu 1+kk 23 m²,"Politických vězňů, Olomouc - Neředín",7 000,olomoucky-kraj,osobní,panelová,,,monthly
+307,Pronájem bytu 3+1 71 m²,"Kabelíkova, Přerov - Přerov I-Město",10 000,olomoucky-kraj,osobní,panelová,,71 m,monthly
+308,Pronájem kanceláře 228 m²,"Horní lán, Olomouc - Nová Ulice",,olomoucky-kraj,kanceláře,smíšená,719 m,228 m,unknown
+309,Pronájem bytu 3+1 71 m²,"Kabelíkova, Přerov - Přerov I-Město",10 000,olomoucky-kraj,osobní,panelová,,,monthly
+310,Pronájem kanceláře 228 m²,"Horní lán, Olomouc - Nová Ulice",,olomoucky-kraj,kanceláře,smíšená,719 m,,unknown
+311,Pronájem kanceláře 228 m²,"Horní lán, Olomouc - Nová Ulice",,olomoucky-kraj,kanceláře,smíšená,,228 m,unknown
+312,Pronájem kanceláře 228 m²,"Horní lán, Olomouc - Nová Ulice",,olomoucky-kraj,kanceláře,smíšená,,,unknown
+313,Pronájem bytu 2+kk 51 m²,"Hlavní náměstí, Šternberk, okres Olomouc",10 500,olomoucky-kraj,osobní,cihlová,,51 m,monthly
+314,Pronájem bytu 2+kk 51 m²,"Hlavní náměstí, Šternberk, okres Olomouc",10 500,olomoucky-kraj,osobní,cihlová,,,monthly
+315,Pronájem bytu 2+kk 60 m²,"Kmochova, Olomouc - Nová Ulice",12 000,olomoucky-kraj,osobní,cihlová,,60 m,monthly
+316,Pronájem bytu 2+kk 60 m²,"Kmochova, Olomouc - Nová Ulice",12 000,olomoucky-kraj,osobní,cihlová,,,monthly
+317,Pronájem bytu 2+1 51 m²,"Hlavní náměstí, Šternberk, okres Olomouc",10 500,olomoucky-kraj,osobní,cihlová,,51 m,monthly
+318,Pronájem bytu 2+kk 58 m²,"Kmochova, Olomouc - Nová Ulice",13 000,olomoucky-kraj,osobní,cihlová,,58 m,monthly
+319,Pronájem bytu 2+1 51 m²,"Hlavní náměstí, Šternberk, okres Olomouc",10 500,olomoucky-kraj,osobní,cihlová,,,monthly
+320,Pronájem bytu 2+kk 58 m²,"Kmochova, Olomouc - Nová Ulice",13 000,olomoucky-kraj,osobní,cihlová,,,monthly
+321,Prodej bytu 3+kk 94 m²,"Resslova, Olomouc - Nová Ulice",7 550 000,olomoucky-kraj,osobní,cihlová,,94 m,total
+322,Pronájem kanceláře 114 m²,"28. října, Olomouc",13 656,olomoucky-kraj,osobní,cihlová,,114 m,monthly
+323,Prodej bytu 3+kk 94 m²,"Resslova, Olomouc - Nová Ulice",7 550 000,olomoucky-kraj,osobní,cihlová,,,total
+324,Pronájem kanceláře 114 m²,"28. října, Olomouc",13 656,olomoucky-kraj,osobní,cihlová,,,monthly
+325,Pronájem kanceláře 19 m²,"Fibichova, Olomouc - Hodolany",3 000,olomoucky-kraj,jiný,skeletová,,19 m,monthly
+326,Pronájem bytu 1+kk 35 m²,"Janského, Olomouc - Povel",9 900,olomoucky-kraj,osobní,cihlová,,35 m,monthly
+327,Pronájem kanceláře 19 m²,"Fibichova, Olomouc - Hodolany",3 000,olomoucky-kraj,jiný,skeletová,,,monthly
+328,Pronájem bytu 1+kk 35 m²,"Janského, Olomouc - Povel",9 900,olomoucky-kraj,osobní,cihlová,,,monthly
+329,Pronájem kanceláře 350 m²,"Pavelčákova, Olomouc",50 000,olomoucky-kraj,jiný,cihlová,,350 m,monthly
+330,Pronájem kanceláře 350 m²,"Pavelčákova, Olomouc",50 000,olomoucky-kraj,jiný,cihlová,,,monthly
+331,Pronájem bytu 3+kk 96 m²,"Dobrovského, Olomouc",13 800,olomoucky-kraj,osobní,cihlová,,96 m,monthly
+332,Pronájem bytu 3+kk 96 m²,"Dobrovského, Olomouc",13 800,olomoucky-kraj,osobní,cihlová,,,monthly
+333,Pronájem skladovacích prostor 25 000 m²,Olomouc,,olomoucky-kraj,skladovací prostory,smíšená,,25000 m,unknown
+334,Pronájem skladovacích prostor 25 000 m²,Olomouc,,olomoucky-kraj,skladovací prostory,smíšená,,,unknown
+335,Prodej bytu 4+kk 88 m²,"Na Náhonu, Beroun - Beroun-Město",8 150 000,stredocesky-kraj,dobrý stav,smíšená,,88 m,total
+336,Prodej bytu 4+kk 88 m²,"Na Náhonu, Beroun - Beroun-Město",8 150 000,stredocesky-kraj,dobrý stav,smíšená,,,total
+337,Pronájem bytu 1+kk 38 m²,"Sokolská, Kolín - Kolín II",11 000,stredocesky-kraj,novostavba,cihlová,,38 m,monthly
+338,Pronájem bytu 1+kk 38 m²,"Sokolská, Kolín - Kolín II",11 000,stredocesky-kraj,novostavba,cihlová,,,monthly
+339,Prodej domu 145 m² s pozemkem 304 m²,"Lékořicová, Květnice, okres Praha-východ",13 950 000,stredocesky-kraj,osobní,cihlová,304 m,145 m,total
+340,Prodej domu 145 m² s pozemkem 304 m²,"Lékořicová, Květnice, okres Praha-východ",13 950 000,stredocesky-kraj,osobní,cihlová,304 m,,total
+341,Prodej domu 145 m² s pozemkem 304 m²,"Lékořicová, Květnice, okres Praha-východ",13 950 000,stredocesky-kraj,osobní,cihlová,,145 m,total
+342,Prodej domu 145 m² s pozemkem 304 m²,"Lékořicová, Květnice, okres Praha-východ",13 950 000,stredocesky-kraj,osobní,cihlová,,,total
+343,Prodej domu 409 m² s pozemkem 800 m²,"Hálkova, Veltrusy, okres Mělník",13 800 000,stredocesky-kraj,samostatný,cihlová,800 m,409 m,total
+344,Prodej domu 409 m² s pozemkem 800 m²,"Hálkova, Veltrusy, okres Mělník",13 800 000,stredocesky-kraj,samostatný,cihlová,800 m,,total
+345,Prodej domu 409 m² s pozemkem 800 m²,"Hálkova, Veltrusy, okres Mělník",13 800 000,stredocesky-kraj,samostatný,cihlová,,409 m,total
+346,Prodej domu 409 m² s pozemkem 800 m²,"Hálkova, Veltrusy, okres Mělník",13 800 000,stredocesky-kraj,samostatný,cihlová,,,total
+347,Prodej domu 132 m² s pozemkem 283 m²,"Lékořicová, Květnice, okres Praha-východ",12 950 000,stredocesky-kraj,osobní,cihlová,283 m,132 m,total
+348,Prodej domu 132 m² s pozemkem 283 m²,"Lékořicová, Květnice, okres Praha-východ",12 950 000,stredocesky-kraj,osobní,cihlová,283 m,,total
+349,Prodej domu 132 m² s pozemkem 283 m²,"Lékořicová, Květnice, okres Praha-východ",12 950 000,stredocesky-kraj,osobní,cihlová,,132 m,total
+350,Prodej domu 132 m² s pozemkem 283 m²,"Lékořicová, Květnice, okres Praha-východ",12 950 000,stredocesky-kraj,osobní,cihlová,,,total
+351,Prodej domu 159 m² s pozemkem 217 m²,"Herink, okres Praha-východ",12 298 200,stredocesky-kraj,osobní,cihlová,217 m,159 m,total
+352,Prodej domu 159 m² s pozemkem 217 m²,"Herink, okres Praha-východ",12 298 200,stredocesky-kraj,osobní,cihlová,217 m,,total
+353,Prodej domu 159 m² s pozemkem 217 m²,"Herink, okres Praha-východ",12 298 200,stredocesky-kraj,osobní,cihlová,,159 m,total
+354,Prodej domu 159 m² s pozemkem 217 m²,"Herink, okres Praha-východ",12 298 200,stredocesky-kraj,osobní,cihlová,,,total
+355,Prodej bytu 2+kk 48 m²,"Klecany, okres Praha-východ",4 900 000,stredocesky-kraj,dobrý stav,smíšená,,48 m,total
+356,Prodej bytu 2+kk 48 m²,"Klecany, okres Praha-východ",4 900 000,stredocesky-kraj,dobrý stav,smíšená,,,total
+357,Prodej domu 161 m² s pozemkem 546 m²,"Lékořicová, Květnice, okres Praha-východ",14 950 000,stredocesky-kraj,osobní,cihlová,546 m,161 m,total
+358,Prodej domu 161 m² s pozemkem 546 m²,"Lékořicová, Květnice, okres Praha-východ",14 950 000,stredocesky-kraj,osobní,cihlová,546 m,,total
+359,Prodej domu 161 m² s pozemkem 546 m²,"Lékořicová, Květnice, okres Praha-východ",14 950 000,stredocesky-kraj,osobní,cihlová,,161 m,total
+360,Prodej domu 161 m² s pozemkem 546 m²,"Lékořicová, Květnice, okres Praha-východ",14 950 000,stredocesky-kraj,osobní,cihlová,,,total
+361,Prodej stavebního pozemku 1 802 m²,"Jezeřanská, Kolín - Kolín V",6 250 000,stredocesky-kraj,"veřejný, vlastní zdroj",1802 m,,,total
+362,Dražba domu 1 m² s pozemkem 737 m²,"Kamýk nad Vltavou, okres Příbram",493 000,stredocesky-kraj,20.01.2022 v 15:25 hod.,,,,total
+363,Prodej bytu 2+kk 73 m²,"Hýskov, okres Beroun",5 316 000,stredocesky-kraj,jiný,cihlová,,73 m,total
+364,Prodej bytu 2+kk 73 m²,"Hýskov, okres Beroun",5 316 000,stredocesky-kraj,jiný,cihlová,,,total
+365,Prodej bytu 3+kk 86 m²,"Vrchy, Zlín - Kudlov",6 340 000,zlinsky-kraj,dobrý stav,cihlová,,86 m,total
+366,Prodej bytu 3+kk 86 m²,"Vrchy, Zlín - Kudlov",6 340 000,zlinsky-kraj,dobrý stav,cihlová,,,total
+367,Prodej kanceláře 97 m²,"U Potoka, Holešov, okres Kroměříž",3 990 000,zlinsky-kraj,osobní,cihlová,,97 m,total
+368,Prodej kanceláře 97 m²,"U Potoka, Holešov, okres Kroměříž",3 990 000,zlinsky-kraj,osobní,cihlová,,,total
+369,Prodej domu 167 m² s pozemkem 800 m²,"Břestek, okres Uherské Hradiště",4 990 000,zlinsky-kraj,osobní,cihlová,800 m,167 m,total
+370,Prodej domu 167 m² s pozemkem 800 m²,"Břestek, okres Uherské Hradiště",4 990 000,zlinsky-kraj,osobní,cihlová,800 m,,total
+371,Prodej domu 167 m² s pozemkem 800 m²,"Břestek, okres Uherské Hradiště",4 990 000,zlinsky-kraj,osobní,cihlová,,167 m,total
+372,Prodej domu 167 m² s pozemkem 800 m²,"Břestek, okres Uherské Hradiště",4 990 000,zlinsky-kraj,osobní,cihlová,,,total
+373,Pronájem bytu 2+kk 40 m²,"třída Tomáše Bati, Zlín",12 000,zlinsky-kraj,osobní,cihlová,,40 m,monthly
+374,Prodej domu 210 m² s pozemkem 1 007 m²,"Pod Homolí, Hořovice, okres Beroun",12 000 000,stredocesky-kraj,osobní,cihlová,1007 m,210 m,total
+375,Pronájem bytu 2+kk 40 m²,"třída Tomáše Bati, Zlín",12 000,zlinsky-kraj,osobní,cihlová,,,monthly
+376,Prodej domu 210 m² s pozemkem 1 007 m²,"Pod Homolí, Hořovice, okres Beroun",12 000 000,stredocesky-kraj,osobní,cihlová,1007 m,,total
+377,Prodej domu 210 m² s pozemkem 1 007 m²,"Pod Homolí, Hořovice, okres Beroun",12 000 000,stredocesky-kraj,osobní,cihlová,,210 m,total
+378,Prodej domu 210 m² s pozemkem 1 007 m²,"Pod Homolí, Hořovice, okres Beroun",12 000 000,stredocesky-kraj,osobní,cihlová,,,total
+379,Prodej louky 6 420 m²,"Kunovice, okres Uherské Hradiště",261 000,zlinsky-kraj,6420 m,osobní,,,total
+380,Prodej bytu 3+1 97 m²,"U Potoka, Holešov, okres Kroměříž",3 990 000,zlinsky-kraj,dobrý stav,cihlová,,97 m,total
+381,Prodej domu 176 m² s pozemkem 1 800 m²,"Cihlářská, Uherský Brod - Havřice, okres Uherské Hradiště",9 920 000,zlinsky-kraj,jiný,cihlová,1800 m,176 m,total
+382,Prodej bytu 3+1 97 m²,"U Potoka, Holešov, okres Kroměříž",3 990 000,zlinsky-kraj,dobrý stav,cihlová,,,total
+383,Prodej domu 176 m² s pozemkem 1 800 m²,"Cihlářská, Uherský Brod - Havřice, okres Uherské Hradiště",9 920 000,zlinsky-kraj,jiný,cihlová,1800 m,,total
+384,Prodej domu 176 m² s pozemkem 1 800 m²,"Cihlářská, Uherský Brod - Havřice, okres Uherské Hradiště",9 920 000,zlinsky-kraj,jiný,cihlová,,176 m,total
+385,Prodej domu 176 m² s pozemkem 1 800 m²,"Cihlářská, Uherský Brod - Havřice, okres Uherské Hradiště",9 920 000,zlinsky-kraj,jiný,cihlová,,,total
+386,Pronájem obchodních prostor 143 m²,"Bystřice pod Hostýnem, okres Kroměříž",,zlinsky-kraj,osobní,cihlová,,143 m,unknown
+387,Pronájem obchodních prostor 143 m²,"Bystřice pod Hostýnem, okres Kroměříž",,zlinsky-kraj,osobní,cihlová,,,unknown
+388,Prodej domu 126 m² s pozemkem 450 m²,"Na Vyhlídce, Zlín",6 990 000,zlinsky-kraj,samostatný,cihlová,450 m,126 m,total
+389,Prodej domu 126 m² s pozemkem 450 m²,"Na Vyhlídce, Zlín",6 990 000,zlinsky-kraj,samostatný,cihlová,450 m,,total
+390,Prodej domu 126 m² s pozemkem 450 m²,"Na Vyhlídce, Zlín",6 990 000,zlinsky-kraj,samostatný,cihlová,,126 m,total
+391,Prodej domu 126 m² s pozemkem 450 m²,"Na Vyhlídce, Zlín",6 990 000,zlinsky-kraj,samostatný,cihlová,,,total
+392,Prodej pole 43 288 m²,"Uherskobrodská, Luhačovice, okres Zlín",,zlinsky-kraj,43288 m,osobní,,,unknown
+393,Prodej domu 169 m² s pozemkem 216 m²,"Hrnčířská, Zlín",,zlinsky-kraj,osobní,cihlová,216 m,169 m,unknown
+394,Prodej domu 169 m² s pozemkem 216 m²,"Hrnčířská, Zlín",,zlinsky-kraj,osobní,cihlová,216 m,,unknown
+395,Prodej domu 169 m² s pozemkem 216 m²,"Hrnčířská, Zlín",,zlinsky-kraj,osobní,cihlová,,169 m,unknown
+396,Prodej domu 169 m² s pozemkem 216 m²,"Hrnčířská, Zlín",,zlinsky-kraj,osobní,cihlová,,,unknown
+397,Prodej domu 103 m² s pozemkem 725 m²,"Valašské Klobouky, okres Zlín",,zlinsky-kraj,samostatný,smíšená,725 m,103 m,unknown
+398,Prodej domu 103 m² s pozemkem 725 m²,"Valašské Klobouky, okres Zlín",,zlinsky-kraj,samostatný,smíšená,725 m,,unknown
+399,Prodej domu 103 m² s pozemkem 725 m²,"Valašské Klobouky, okres Zlín",,zlinsky-kraj,samostatný,smíšená,,103 m,unknown
+400,Prodej domu 103 m² s pozemkem 725 m²,"Valašské Klobouky, okres Zlín",,zlinsky-kraj,samostatný,smíšená,,,unknown
+401,Pronájem bytu 3+kk 74 m²,"Loukov, okres Kroměříž",12 900,zlinsky-kraj,dobrý stav,cihlová,,74 m,monthly
+402,Pronájem bytu 3+kk 74 m²,"Loukov, okres Kroměříž",12 900,zlinsky-kraj,dobrý stav,cihlová,,,monthly
+403,"Pronájem garáže Holešov, Všetuly","Kráčiny, Holešov - Všetuly, okres Kroměříž",1 200,zlinsky-kraj,,,,,monthly
+404,Pronájem bytu 3+kk 150 m²,"Klabalská I, Zlín",20 800,zlinsky-kraj,osobní,cihlová,,150 m,monthly
+405,Pronájem bytu 3+kk 150 m²,"Klabalská I, Zlín",20 800,zlinsky-kraj,osobní,cihlová,,,monthly
+406,Prodej bytu 2+1 82 m²,"Cukrovar, Kvasice, okres Kroměříž",3 559 000,zlinsky-kraj,dobrý stav,cihlová,,82 m,total
+407,Pronájem komerčního pozemku 6 000 m²,"Holešovská, Bystřice pod Hostýnem, okres Kroměříž",15 000,zlinsky-kraj,,osobní,,,monthly
+408,Prodej bytu 2+1 82 m²,"Cukrovar, Kvasice, okres Kroměříž",3 559 000,zlinsky-kraj,dobrý stav,cihlová,,,total
+409,Prodej domu 90 m² s pozemkem 532 m²,"Bystřice pod Hostýnem, okres Kroměříž",2 415 000,zlinsky-kraj,v bloku,cihlová,532 m,90 m,total
+410,Prodej domu 90 m² s pozemkem 532 m²,"Bystřice pod Hostýnem, okres Kroměříž",2 415 000,zlinsky-kraj,v bloku,cihlová,532 m,,total
+411,Prodej domu 90 m² s pozemkem 532 m²,"Bystřice pod Hostýnem, okres Kroměříž",2 415 000,zlinsky-kraj,v bloku,cihlová,,90 m,total
+412,Prodej domu 90 m² s pozemkem 532 m²,"Bystřice pod Hostýnem, okres Kroměříž",2 415 000,zlinsky-kraj,v bloku,cihlová,,,total
+413,Pronájem bytu 2+kk 95 m²,"Klabalská I, Zlín",12 840,zlinsky-kraj,osobní,cihlová,,95 m,monthly
+414,Pronájem bytu 2+kk 95 m²,"Klabalská I, Zlín",12 840,zlinsky-kraj,osobní,cihlová,,,monthly
+415,Prodej domu 216 m² s pozemkem 1 000 m²,"Zahradní, Chuchelná, okres Opava",8 862 000,moravskoslezsky-kraj,jiný,cihlová,1000 m,216 m,total
+416,Prodej domu 160 m² s pozemkem 79 m²,"Bohušov - Dolní Povelice, okres Bruntál",1 500 000,moravskoslezsky-kraj,osobní,smíšená,79 m,160 m,total
+417,Prodej domu 216 m² s pozemkem 1 000 m²,"Zahradní, Chuchelná, okres Opava",8 862 000,moravskoslezsky-kraj,jiný,cihlová,1000 m,,total
+418,Prodej domu 216 m² s pozemkem 1 000 m²,"Zahradní, Chuchelná, okres Opava",8 862 000,moravskoslezsky-kraj,jiný,cihlová,,216 m,total
+419,Prodej domu 216 m² s pozemkem 1 000 m²,"Zahradní, Chuchelná, okres Opava",8 862 000,moravskoslezsky-kraj,jiný,cihlová,,,total
+420,Prodej domu 160 m² s pozemkem 79 m²,"Bohušov - Dolní Povelice, okres Bruntál",1 500 000,moravskoslezsky-kraj,osobní,smíšená,79 m,,total
+421,Prodej domu 160 m² s pozemkem 79 m²,"Bohušov - Dolní Povelice, okres Bruntál",1 500 000,moravskoslezsky-kraj,osobní,smíšená,,160 m,total
+422,Prodej domu 160 m² s pozemkem 79 m²,"Bohušov - Dolní Povelice, okres Bruntál",1 500 000,moravskoslezsky-kraj,osobní,smíšená,,,total
+423,Pronájem obchodních prostor 50 m²,"Dr. Martínka, Ostrava - Hrabůvka",7 000,moravskoslezsky-kraj,osobní,smíšená,,50 m,monthly
+424,Pronájem bytu 2+kk 42 m²,"Masarykovo nám., Bystřice pod Hostýnem, okres Kroměříž",7 500,zlinsky-kraj,dobrý stav,cihlová,,42 m,monthly
+425,Pronájem obchodních prostor 50 m²,"Dr. Martínka, Ostrava - Hrabůvka",7 000,moravskoslezsky-kraj,osobní,smíšená,,,monthly
+426,Pronájem bytu 2+kk 42 m²,"Masarykovo nám., Bystřice pod Hostýnem, okres Kroměříž",7 500,zlinsky-kraj,dobrý stav,cihlová,,,monthly
+427,Pronájem bytu 2+1 44 m²,"Markova, Ostrava - Zábřeh",8 000,moravskoslezsky-kraj,osobní,panelová,,44 m,monthly
+428,Pronájem kanceláře 18 m²,"28. října, Ostrava - Moravská Ostrava",24 190,moravskoslezsky-kraj,jiný,skeletová,,18 m,monthly
+429,Pronájem bytu 2+1 44 m²,"Markova, Ostrava - Zábřeh",8 000,moravskoslezsky-kraj,osobní,panelová,,,monthly
+430,Pronájem kanceláře 18 m²,"28. října, Ostrava - Moravská Ostrava",24 190,moravskoslezsky-kraj,jiný,skeletová,,,monthly
+431,Prodej domu 340 m² s pozemkem 7 255 m²,"Třešňová, Orlová - Poruba, okres Karviná",,moravskoslezsky-kraj,samostatný,cihlová,7255 m,340 m,unknown
+432,Prodej bytu 2+1 65 m²,"Okružní, Orlová - Lutyně, okres Karviná",1 170 000,moravskoslezsky-kraj,družstevní,panelová,,65 m,total
+433,Prodej domu 340 m² s pozemkem 7 255 m²,"Třešňová, Orlová - Poruba, okres Karviná",,moravskoslezsky-kraj,samostatný,cihlová,7255 m,,unknown
+434,Prodej domu 340 m² s pozemkem 7 255 m²,"Třešňová, Orlová - Poruba, okres Karviná",,moravskoslezsky-kraj,samostatný,cihlová,,340 m,unknown
+435,Prodej domu 340 m² s pozemkem 7 255 m²,"Třešňová, Orlová - Poruba, okres Karviná",,moravskoslezsky-kraj,samostatný,cihlová,,,unknown
+436,Prodej bytu 2+1 65 m²,"Okružní, Orlová - Lutyně, okres Karviná",1 170 000,moravskoslezsky-kraj,družstevní,panelová,,,total
+437,Prodej chaty/chalupy 16 m²,"Žleby, Ostrava - Hošťálkovice",700 000,moravskoslezsky-kraj,osobní,dřevěná,,16 m,total
+438,Prodej chaty/chalupy 16 m²,"Žleby, Ostrava - Hošťálkovice",700 000,moravskoslezsky-kraj,osobní,dřevěná,,,total
+439,Pronájem bytu 2+kk 50 m²,"Na Valech, Opava - Město",8 000,moravskoslezsky-kraj,osobní,cihlová,,50 m,monthly
+440,Pronájem bytu 2+kk 50 m²,"Na Valech, Opava - Město",8 000,moravskoslezsky-kraj,osobní,cihlová,,,monthly
+441,Pronájem skladovacích prostor 140 m²,"Josefa Václava Sládka, Frýdek-Místek - Místek",20 000,moravskoslezsky-kraj,skladovací prostory,cihlová,,140 m,monthly
+442,Pronájem skladovacích prostor 140 m²,"Josefa Václava Sládka, Frýdek-Místek - Místek",20 000,moravskoslezsky-kraj,skladovací prostory,cihlová,,,monthly
+443,Pronájem kanceláře 14 m²,"Sokolovská, Ostrava - Poruba",2 800,moravskoslezsky-kraj,osobní,smíšená,,14 m,monthly
+444,Pronájem kanceláře 14 m²,"Sokolovská, Ostrava - Poruba",2 800,moravskoslezsky-kraj,osobní,smíšená,,,monthly
+445,Pronájem bytu 2+kk 38 m²,"tř. T. G. Masaryka, Frýdek-Místek - Frýdek",8 900,moravskoslezsky-kraj,osobní,cihlová,,38 m,monthly
+446,Pronájem bytu 2+kk 38 m²,"tř. T. G. Masaryka, Frýdek-Místek - Frýdek",8 900,moravskoslezsky-kraj,osobní,cihlová,,,monthly
+447,Pronájem skladovacích prostor 12 000 m²,"Mošnov, okres Nový Jičín",,moravskoslezsky-kraj,skladovací prostory,smíšená,,12000 m,unknown
+448,Pronájem skladovacích prostor 12 000 m²,"Mošnov, okres Nový Jičín",,moravskoslezsky-kraj,skladovací prostory,smíšená,,,unknown
+449,Prodej bytu 1+1 33 m²,Ostrava - Hrabůvka,1 800 000,moravskoslezsky-kraj,osobní,panelová,,33 m,total
+450,Prodej bytu 1+1 33 m²,Ostrava - Hrabůvka,1 800 000,moravskoslezsky-kraj,osobní,panelová,,,total
+451,Pronájem kanceláře 147 m²,"Hradní, Ostrava - Slezská Ostrava",18 522,moravskoslezsky-kraj,kanceláře,cihlová,,147 m,monthly
+452,Prodej bytu 2+1 52 m²,"Jičínská, Nový Jičín - Loučka",2 450 000,moravskoslezsky-kraj,osobní,panelová,,52 m,total
+453,Pronájem kanceláře 147 m²,"Hradní, Ostrava - Slezská Ostrava",18 522,moravskoslezsky-kraj,kanceláře,cihlová,,,monthly
+454,Prodej bytu 2+1 52 m²,"Jičínská, Nový Jičín - Loučka",2 450 000,moravskoslezsky-kraj,osobní,panelová,,,total
+455,Prodej domu 160 m² s pozemkem 1 235 m²,"Město Albrechtice - Linhartovy, okres Bruntál",4 400 000,moravskoslezsky-kraj,osobní,cihlová,1235 m,160 m,total
+456,Prodej bytu 3+1 65 m²,"Jugoslávská, Ostrava - Zábřeh",2 990 000,moravskoslezsky-kraj,po rekonstrukci,panelová,,65 m,total
+457,Prodej domu 160 m² s pozemkem 1 235 m²,"Město Albrechtice - Linhartovy, okres Bruntál",4 400 000,moravskoslezsky-kraj,osobní,cihlová,1235 m,,total
+458,Prodej domu 160 m² s pozemkem 1 235 m²,"Město Albrechtice - Linhartovy, okres Bruntál",4 400 000,moravskoslezsky-kraj,osobní,cihlová,,160 m,total
+459,Prodej domu 160 m² s pozemkem 1 235 m²,"Město Albrechtice - Linhartovy, okres Bruntál",4 400 000,moravskoslezsky-kraj,osobní,cihlová,,,total
+460,Prodej bytu 3+1 65 m²,"Jugoslávská, Ostrava - Zábřeh",2 990 000,moravskoslezsky-kraj,po rekonstrukci,panelová,,,total
+461,Prodej chaty/chalupy 50 m² s pozemkem 100 m²,Ostrava,1 300 000,moravskoslezsky-kraj,osobní,dřevěná,100 m,50 m,total
+462,Prodej stavebního pozemku 5 413 m²,"Čeladná, okres Frýdek-Místek",4 350 000,moravskoslezsky-kraj,5413 m,osobní,,,total
+463,Prodej domu 150 m² s pozemkem 2 139 m²,"Přívětice, okres Rokycany",,plzensky-kraj,osobní,cihlová,2139 m,150 m,unknown
+464,Prodej chaty/chalupy 50 m² s pozemkem 100 m²,Ostrava,1 300 000,moravskoslezsky-kraj,osobní,dřevěná,100 m,,total
+465,Prodej chaty/chalupy 50 m² s pozemkem 100 m²,Ostrava,1 300 000,moravskoslezsky-kraj,osobní,dřevěná,,50 m,total
+466,Prodej chaty/chalupy 50 m² s pozemkem 100 m²,Ostrava,1 300 000,moravskoslezsky-kraj,osobní,dřevěná,,,total
+467,Prodej domu 150 m² s pozemkem 2 139 m²,"Přívětice, okres Rokycany",,plzensky-kraj,osobní,cihlová,2139 m,,unknown
+468,Prodej domu 150 m² s pozemkem 2 139 m²,"Přívětice, okres Rokycany",,plzensky-kraj,osobní,cihlová,,150 m,unknown
+469,Prodej domu 150 m² s pozemkem 2 139 m²,"Přívětice, okres Rokycany",,plzensky-kraj,osobní,cihlová,,,unknown
+470,Pronájem skladovacích prostor 3 160 m²,"Hřbitovní, Plzeň - Doubravka",316 295,plzensky-kraj,skladovací prostory,smíšená,,3160 m,monthly
+471,Pronájem skladovacích prostor 3 160 m²,"Hřbitovní, Plzeň - Doubravka",316 295,plzensky-kraj,skladovací prostory,smíšená,,,monthly
+472,Pronájem bytu 2+kk 61 m²,"Svatopluka Čecha, Starý Plzenec, okres Plzeň-město",12 700,plzensky-kraj,novostavba,cihlová,,61 m,monthly
+473,Prodej domu 220 m² s pozemkem 693 m²,"Sulislav, okres Tachov",3 764 000,plzensky-kraj,osobní,smíšená,693 m,220 m,total
+474,Pronájem obchodních prostor 49 m²,"Slovanská, Plzeň - Východní Předměstí",8 900,plzensky-kraj,osobní,cihlová,,49 m,monthly
+475,Prodej domu 314 m² s pozemkem 247 m²,"Branská, Domažlice - Město",7 875 000,plzensky-kraj,osobní,cihlová,247 m,314 m,total
+476,Pronájem bytu 2+kk 61 m²,"Svatopluka Čecha, Starý Plzenec, okres Plzeň-město",12 700,plzensky-kraj,novostavba,cihlová,,,monthly
+477,Prodej domu 220 m² s pozemkem 693 m²,"Sulislav, okres Tachov",3 764 000,plzensky-kraj,osobní,smíšená,693 m,,total
+478,Prodej domu 220 m² s pozemkem 693 m²,"Sulislav, okres Tachov",3 764 000,plzensky-kraj,osobní,smíšená,,220 m,total
+479,Prodej domu 220 m² s pozemkem 693 m²,"Sulislav, okres Tachov",3 764 000,plzensky-kraj,osobní,smíšená,,,total
+480,Pronájem obchodních prostor 49 m²,"Slovanská, Plzeň - Východní Předměstí",8 900,plzensky-kraj,osobní,cihlová,,,monthly
+481,Prodej domu 314 m² s pozemkem 247 m²,"Branská, Domažlice - Město",7 875 000,plzensky-kraj,osobní,cihlová,247 m,,total
+482,Prodej domu 314 m² s pozemkem 247 m²,"Branská, Domažlice - Město",7 875 000,plzensky-kraj,osobní,cihlová,,314 m,total
+483,Prodej domu 314 m² s pozemkem 247 m²,"Branská, Domažlice - Město",7 875 000,plzensky-kraj,osobní,cihlová,,,total
+484,Pronájem bytu 1+kk 32 m²,"Hodonínská, Plzeň - Severní Předměstí",8 000,plzensky-kraj,osobní,panelová,,32 m,monthly
+485,Pronájem bytu 1+kk 32 m²,"Hodonínská, Plzeň - Severní Předměstí",8 000,plzensky-kraj,osobní,panelová,,,monthly
+486,Prodej domu 135 m² s pozemkem 382 m²,"Starokdyňská, Kdyně, okres Domažlice",2 890 000,plzensky-kraj,osobní,cihlová,382 m,135 m,total
+487,Prodej domu 135 m² s pozemkem 382 m²,"Starokdyňská, Kdyně, okres Domažlice",2 890 000,plzensky-kraj,osobní,cihlová,382 m,,total
+488,Prodej domu 135 m² s pozemkem 382 m²,"Starokdyňská, Kdyně, okres Domažlice",2 890 000,plzensky-kraj,osobní,cihlová,,135 m,total
+489,Prodej domu 135 m² s pozemkem 382 m²,"Starokdyňská, Kdyně, okres Domažlice",2 890 000,plzensky-kraj,osobní,cihlová,,,total
+490,Prodej bytu 2+1 56 m²,"Na Výsluní, Kralovice, okres Plzeň-sever",2 200 000,plzensky-kraj,osobní,panelová,,56 m,total
+491,Prodej bytu 2+1 56 m²,"Na Výsluní, Kralovice, okres Plzeň-sever",2 200 000,plzensky-kraj,osobní,panelová,,,total
+492,Prodej domu 246 m² s pozemkem 1 154 m²,"Přimda - Třískolupy, okres Tachov",2 742 000,plzensky-kraj,osobní,cihlová,1154 m,246 m,total
+493,Prodej stavebního pozemku 1 917 m²,"Planá - Svahy, okres Tachov",1 621 000,plzensky-kraj,,osobní,,,total
+494,Prodej domu 246 m² s pozemkem 1 154 m²,"Přimda - Třískolupy, okres Tachov",2 742 000,plzensky-kraj,osobní,cihlová,1154 m,,total
+495,Prodej domu 246 m² s pozemkem 1 154 m²,"Přimda - Třískolupy, okres Tachov",2 742 000,plzensky-kraj,osobní,cihlová,,246 m,total
+496,Prodej domu 246 m² s pozemkem 1 154 m²,"Přimda - Třískolupy, okres Tachov",2 742 000,plzensky-kraj,osobní,cihlová,,,total
+497,Prodej bytu 2+kk 105 m²,"Kotíkovská, Plzeň - Severní Předměstí",7 300 000,plzensky-kraj,dobrý stav,cihlová,,105 m,total
+498,Prodej bytu 2+kk 105 m²,"Kotíkovská, Plzeň - Severní Předměstí",7 300 000,plzensky-kraj,dobrý stav,cihlová,,,total
+499,Prodej chaty/chalupy 79 m² s pozemkem 912 m²,"Předenice, okres Plzeň-Jih",1 790 000,plzensky-kraj,osobní,smíšená,912 m,79 m,total
+500,Pronájem bytu 1+1 50 m²,"Americká, Plzeň - Jižní Předměstí",10 000,plzensky-kraj,osobní,cihlová,,50 m,monthly
+501,Prodej chaty/chalupy 79 m² s pozemkem 912 m²,"Předenice, okres Plzeň-Jih",1 790 000,plzensky-kraj,osobní,smíšená,912 m,,total
+502,Prodej chaty/chalupy 79 m² s pozemkem 912 m²,"Předenice, okres Plzeň-Jih",1 790 000,plzensky-kraj,osobní,smíšená,,79 m,total
+503,Prodej chaty/chalupy 79 m² s pozemkem 912 m²,"Předenice, okres Plzeň-Jih",1 790 000,plzensky-kraj,osobní,smíšená,,,total
+504,Pronájem bytu 1+1 50 m²,"Americká, Plzeň - Jižní Předměstí",10 000,plzensky-kraj,osobní,cihlová,,,monthly
+505,Prodej domu 255 m² s pozemkem 2 094 m²,"Politických vězňů, Mirošov, okres Rokycany",6 050 000,plzensky-kraj,řadový,cihlová,2094 m,255 m,total
+506,Prodej domu 255 m² s pozemkem 2 094 m²,"Politických vězňů, Mirošov, okres Rokycany",6 050 000,plzensky-kraj,řadový,cihlová,2094 m,,total
+507,Prodej domu 255 m² s pozemkem 2 094 m²,"Politických vězňů, Mirošov, okres Rokycany",6 050 000,plzensky-kraj,řadový,cihlová,,255 m,total
+508,Prodej domu 255 m² s pozemkem 2 094 m²,"Politických vězňů, Mirošov, okres Rokycany",6 050 000,plzensky-kraj,řadový,cihlová,,,total
+509,Prodej louky 3 003 m²,"Tymákov, okres Plzeň-město",1 570 000,plzensky-kraj,,3003 m,,,total
+510,Prodej chaty/chalupy s pozemkem 256 m²,"Újezd nade Mží, okres Plzeň-sever",790 000,plzensky-kraj,samota,dřevěná,256 m,,total
+511,Prodej chaty/chalupy s pozemkem 256 m²,"Újezd nade Mží, okres Plzeň-sever",790 000,plzensky-kraj,samota,dřevěná,,,total
+512,Pronájem skladovacích prostor 3 900 m²,"Kyšice, okres Plzeň-město",,plzensky-kraj,skladovací prostory,smíšená,,3900 m,unknown
+513,Pronájem skladovacích prostor 3 900 m²,"Kyšice, okres Plzeň-město",,plzensky-kraj,skladovací prostory,smíšená,,,unknown
+514,Prodej bytu 2+kk 47 m²,"Žežická, Ústí nad Labem - Krásné Březno",1 280 000,ustecky-kraj,dobrý stav,panelová,,47 m,total
+515,Prodej domu 118 m² s pozemkem 3 719 m²,"Dnešice, okres Plzeň-Jih",6 790 000,plzensky-kraj,osobní,cihlová,3719 m,118 m,total
+516,Prodej bytu 2+kk 47 m²,"Žežická, Ústí nad Labem - Krásné Březno",1 280 000,ustecky-kraj,dobrý stav,panelová,,,total
+517,Prodej domu 118 m² s pozemkem 3 719 m²,"Dnešice, okres Plzeň-Jih",6 790 000,plzensky-kraj,osobní,cihlová,3719 m,,total
+518,Prodej domu 118 m² s pozemkem 3 719 m²,"Dnešice, okres Plzeň-Jih",6 790 000,plzensky-kraj,osobní,cihlová,,118 m,total
+519,Prodej domu 118 m² s pozemkem 3 719 m²,"Dnešice, okres Plzeň-Jih",6 790 000,plzensky-kraj,osobní,cihlová,,,total
+520,Prodej bytu 3+1 68 m²,"Vroutek - Mlýnce, okres Louny",1 790 000,ustecky-kraj,osobní,smíšená,,68 m,total
+521,Pronájem kanceláře 30 m²,"Kopeckého sady, Plzeň - Vnitřní Město",14 900,plzensky-kraj,kanceláře,cihlová,,30 m,monthly
+522,Prodej bytu 3+1 68 m²,"Vroutek - Mlýnce, okres Louny",1 790 000,ustecky-kraj,osobní,smíšená,,,total
+523,Pronájem kanceláře 30 m²,"Kopeckého sady, Plzeň - Vnitřní Město",14 900,plzensky-kraj,kanceláře,cihlová,,,monthly
+524,Prodej komerčního pozemku 32 759 m²,"Očihov, okres Louny",,ustecky-kraj,,32759 m,,,unknown
+525,Prodej komerčního pozemku 2 268 m²,"Okružní, Most",3 538 000,ustecky-kraj,,2268 m,,,total
+526,Prodej pole 14 779 m²,"Obrnice, okres Most",810 000,ustecky-kraj,,14779 m,,,total
+527,Prodej domu 400 m² s pozemkem 1 323 m²,"Štětí - Chcebuz, okres Litoměřice",1 600 000,ustecky-kraj,osobní,smíšená,1323 m,400 m,total
+528,Prodej domu 400 m² s pozemkem 1 323 m²,"Štětí - Chcebuz, okres Litoměřice",1 600 000,ustecky-kraj,osobní,smíšená,1323 m,,total
+529,Prodej domu 400 m² s pozemkem 1 323 m²,"Štětí - Chcebuz, okres Litoměřice",1 600 000,ustecky-kraj,osobní,smíšená,,400 m,total
+530,Prodej domu 400 m² s pozemkem 1 323 m²,"Štětí - Chcebuz, okres Litoměřice",1 600 000,ustecky-kraj,osobní,smíšená,,,total
+531,Pronájem komerčního objektu (jiného typu) 130 m²,"Palachova, Ústí nad Labem - Klíše",,ustecky-kraj,osobní,cihlová,,130 m,unknown
+532,Pronájem komerčního objektu (jiného typu) 130 m²,"Palachova, Ústí nad Labem - Klíše",,ustecky-kraj,osobní,cihlová,,,unknown
+533,Prodej bytu 2+1 60 m²,"Matěje Kopeckého, Chomutov",1 899 000,ustecky-kraj,osobní,panelová,,60 m,total
+534,Prodej domu 130 m² s pozemkem 366 m²,"Libočany, okres Louny",2 750 000,ustecky-kraj,v bloku,smíšená,366 m,130 m,total
+535,Prodej bytu 2+1 60 m²,"Matěje Kopeckého, Chomutov",1 899 000,ustecky-kraj,osobní,panelová,,,total
+536,Prodej domu 130 m² s pozemkem 366 m²,"Libočany, okres Louny",2 750 000,ustecky-kraj,v bloku,smíšená,366 m,,total
+537,Prodej domu 130 m² s pozemkem 366 m²,"Libočany, okres Louny",2 750 000,ustecky-kraj,v bloku,smíšená,,130 m,total
+538,Prodej domu 130 m² s pozemkem 366 m²,"Libočany, okres Louny",2 750 000,ustecky-kraj,v bloku,smíšená,,,total
+539,Prodej zahrady 312 m²,"Žatec, okres Louny",990 000,ustecky-kraj,312 m,osobní,,,total
+540,Prodej domu 56 m² s pozemkem 990 m²,"Blatno, okres Louny",2 900 000,ustecky-kraj,osobní,smíšená,990 m,56 m,total
+541,Prodej domu 56 m² s pozemkem 990 m²,"Blatno, okres Louny",2 900 000,ustecky-kraj,osobní,smíšená,990 m,,total
+542,Prodej domu 56 m² s pozemkem 990 m²,"Blatno, okres Louny",2 900 000,ustecky-kraj,osobní,smíšená,,56 m,total
+543,Prodej domu 56 m² s pozemkem 990 m²,"Blatno, okres Louny",2 900 000,ustecky-kraj,osobní,smíšená,,,total
+544,Prodej bytu 3+1 61 m²,"Borová, Chomutov",1 370 000,ustecky-kraj,družstevní,panelová,,61 m,total
+545,Prodej bytu 3+1 61 m²,"Borová, Chomutov",1 370 000,ustecky-kraj,družstevní,panelová,,,total
+546,Pronájem bytu 1+1 35 m²,"Jirkovská, Chomutov",6 500,ustecky-kraj,po rekonstrukci,panelová,,35 m,monthly
+547,Prodej bytu 2+kk 47 m²,"Prosetická, Teplice - Prosetice",850 000,ustecky-kraj,družstevní,panelová,,47 m,total
+548,Pronájem bytu 1+1 35 m²,"Jirkovská, Chomutov",6 500,ustecky-kraj,po rekonstrukci,panelová,,,monthly
+549,Prodej bytu 2+kk 47 m²,"Prosetická, Teplice - Prosetice",850 000,ustecky-kraj,družstevní,panelová,,,total
+550,Prodej chaty/chalupy 75 m²,"Vrbno nad Lesy, okres Louny",2 790 000,ustecky-kraj,osobní,smíšená,,75 m,total
+551,Prodej chaty/chalupy 75 m²,"Vrbno nad Lesy, okres Louny",2 790 000,ustecky-kraj,osobní,smíšená,,,total
+552,Pronájem skladovacích prostor 3 525 m²,"Mlýnská, Hostomice, okres Teplice",,ustecky-kraj,skladovací prostory,smíšená,,3525 m,unknown
+553,Pronájem skladovacích prostor 3 525 m²,"Mlýnská, Hostomice, okres Teplice",,ustecky-kraj,skladovací prostory,smíšená,,,unknown
+554,Pronájem bytu 2+1 38 m²,"Jaroslava Vrchlického, Žatec, okres Louny",9 200,ustecky-kraj,osobní,panelová,,38 m,monthly
+555,Pronájem bytu 2+1 38 m²,"Jaroslava Vrchlického, Žatec, okres Louny",9 200,ustecky-kraj,osobní,panelová,,,monthly
+556,Prodej domu 112 m² s pozemkem 2 225 m²,"Košťálov - Kundratice, okres Semily",4 500 000,liberecky-kraj,osobní,cihlová,2225 m,112 m,total
+557,Prodej domu 112 m² s pozemkem 2 225 m²,"Košťálov - Kundratice, okres Semily",4 500 000,liberecky-kraj,osobní,cihlová,2225 m,,total
+558,Prodej domu 112 m² s pozemkem 2 225 m²,"Košťálov - Kundratice, okres Semily",4 500 000,liberecky-kraj,osobní,cihlová,,112 m,total
+559,Prodej domu 112 m² s pozemkem 2 225 m²,"Košťálov - Kundratice, okres Semily",4 500 000,liberecky-kraj,osobní,cihlová,,,total
+560,Pronájem kanceláře 84 m²,"Husovo náměstí, Chabařovice, okres Ústí nad Labem",11 500,ustecky-kraj,s.r.o.,cihlová,,84 m,monthly
+561,Prodej chaty/chalupy 70 m² s pozemkem 400 m²,"Český Jiřetín, okres Most",2 390 000,ustecky-kraj,osobní,smíšená,400 m,70 m,total
+562,Pronájem kanceláře 84 m²,"Husovo náměstí, Chabařovice, okres Ústí nad Labem",11 500,ustecky-kraj,s.r.o.,cihlová,,,monthly
+563,Prodej chaty/chalupy 70 m² s pozemkem 400 m²,"Český Jiřetín, okres Most",2 390 000,ustecky-kraj,osobní,smíšená,400 m,,total
+564,Prodej chaty/chalupy 70 m² s pozemkem 400 m²,"Český Jiřetín, okres Most",2 390 000,ustecky-kraj,osobní,smíšená,,70 m,total
+565,Prodej chaty/chalupy 70 m² s pozemkem 400 m²,"Český Jiřetín, okres Most",2 390 000,ustecky-kraj,osobní,smíšená,,,total
+566,Pronájem bytu 2+1 75 m²,"Mariánská, Česká Lípa",10 000,liberecky-kraj,osobní,cihlová,,75 m,monthly
+567,Pronájem bytu 2+1 75 m²,"Mariánská, Česká Lípa",10 000,liberecky-kraj,osobní,cihlová,,,monthly
+568,Prodej domu 260 m² s pozemkem 126 m²,"Mariánská, Česká Lípa",,liberecky-kraj,řadový,cihlová,126 m,260 m,unknown
+569,Prodej stavebního pozemku 5 824 m²,"Karlovice, okres Semily",3 599 000,liberecky-kraj,,osobní,,,total
+570,Prodej domu 260 m² s pozemkem 126 m²,"Mariánská, Česká Lípa",,liberecky-kraj,řadový,cihlová,126 m,,unknown
+571,Prodej domu 260 m² s pozemkem 126 m²,"Mariánská, Česká Lípa",,liberecky-kraj,řadový,cihlová,,260 m,unknown
+572,Prodej domu 260 m² s pozemkem 126 m²,"Mariánská, Česká Lípa",,liberecky-kraj,řadový,cihlová,,,unknown
+573,Prodej domu 130 m² s pozemkem 155 m²,"P. Bezruče, Hejnice, okres Liberec",,liberecky-kraj,řadový,smíšená,155 m,130 m,unknown
+574,Pronájem bytu 2+kk 48 m²,"Lidická, Hrádek nad Nisou, okres Liberec",6 900,liberecky-kraj,dobrý stav,cihlová,,48 m,monthly
+575,Prodej stavebního pozemku 1 889 m²,"Holany, okres Česká Lípa",3 400 200,liberecky-kraj,veřejná kanalizace,předměstí,,,total
+576,Prodej stavebního pozemku 1 474 m²,"Holany, okres Česká Lípa",2 653 200,liberecky-kraj,beton,předměstí,,,total
+577,Prodej domu 130 m² s pozemkem 155 m²,"P. Bezruče, Hejnice, okres Liberec",,liberecky-kraj,řadový,smíšená,155 m,,unknown
+578,Prodej domu 130 m² s pozemkem 155 m²,"P. Bezruče, Hejnice, okres Liberec",,liberecky-kraj,řadový,smíšená,,130 m,unknown
+579,Prodej domu 130 m² s pozemkem 155 m²,"P. Bezruče, Hejnice, okres Liberec",,liberecky-kraj,řadový,smíšená,,,unknown
+580,Pronájem bytu 2+kk 48 m²,"Lidická, Hrádek nad Nisou, okres Liberec",6 900,liberecky-kraj,dobrý stav,cihlová,,,monthly
+581,Pronájem bytu 2+kk 100 m²,"Růžová, Liberec - Liberec II-Nové Město",15 500,liberecky-kraj,po rekonstrukci,cihlová,,100 m,monthly
+582,Prodej stavebního pozemku 2 523 m²,"Holany, okres Česká Lípa",4 919 850,liberecky-kraj,,předměstí,,,total
+583,Pronájem restaurace 231 m²,"náměstí 1. máje, Chrastava, okres Liberec",25 000,liberecky-kraj,osobní,cihlová,,231 m,monthly
+584,Prodej domu 99 m² s pozemkem 200 m²,"Stráž nad Nisou, okres Liberec",8 860 000,liberecky-kraj,osobní,cihlová,200 m,99 m,total
+585,Pronájem bytu 2+kk 100 m²,"Růžová, Liberec - Liberec II-Nové Město",15 500,liberecky-kraj,po rekonstrukci,cihlová,,,monthly
+586,Pronájem restaurace 231 m²,"náměstí 1. máje, Chrastava, okres Liberec",25 000,liberecky-kraj,osobní,cihlová,,,monthly
+587,Prodej domu 99 m² s pozemkem 200 m²,"Stráž nad Nisou, okres Liberec",8 860 000,liberecky-kraj,osobní,cihlová,200 m,,total
+588,Prodej domu 99 m² s pozemkem 200 m²,"Stráž nad Nisou, okres Liberec",8 860 000,liberecky-kraj,osobní,cihlová,,99 m,total
+589,Prodej domu 99 m² s pozemkem 200 m²,"Stráž nad Nisou, okres Liberec",8 860 000,liberecky-kraj,osobní,cihlová,,,total
+590,"Exkluzivně prodej garáže o ploše 25 m2, Česká Lípa, Vrchlického ulice","Vrchlického, Česká Lípa",455 000,liberecky-kraj,,,,,total
+591,Pronájem výrobních prostor 260 m²,"U Kartounky, Česká Lípa",25 000,liberecky-kraj,výrobní prostory,cihlová,6667 m,260 m,monthly
+592,Pronájem výrobních prostor 250 m²,"Mařenice, okres Česká Lípa",25 000,liberecky-kraj,osobní,cihlová,,250 m,monthly
+593,Pronájem bytu 1+kk 55 m²,"Růžová, Liberec - Liberec II-Nové Město",10 000,liberecky-kraj,po rekonstrukci,cihlová,,55 m,monthly
+594,Pronájem výrobních prostor 260 m²,"U Kartounky, Česká Lípa",25 000,liberecky-kraj,výrobní prostory,cihlová,6667 m,,monthly
+595,Pronájem výrobních prostor 260 m²,"U Kartounky, Česká Lípa",25 000,liberecky-kraj,výrobní prostory,cihlová,,260 m,monthly
+596,Pronájem výrobních prostor 260 m²,"U Kartounky, Česká Lípa",25 000,liberecky-kraj,výrobní prostory,cihlová,,,monthly
+597,Pronájem výrobních prostor 250 m²,"Mařenice, okres Česká Lípa",25 000,liberecky-kraj,osobní,cihlová,,,monthly
+598,Pronájem bytu 1+kk 55 m²,"Růžová, Liberec - Liberec II-Nové Město",10 000,liberecky-kraj,po rekonstrukci,cihlová,,,monthly
+599,Prodej zahrady 202 m²,"U Obrázku, Liberec - Liberec XIV-Ruprechtice",590 000,liberecky-kraj,202 m,osobní,,,total
+600,Prodej bytu 5+kk 181 m²,Praha,44 900 000,praha,dobrý stav,smíšená,,181 m,total
+601,Prodej bytu 5+kk 181 m²,Praha,44 900 000,praha,dobrý stav,smíšená,,,total
+602,Prodej bytu 5+kk 204 m²,"V kolkovně, Praha 1 - Staré Město",,praha,po rekonstrukci,smíšená,,204 m,unknown
+603,Prodej bytu 5+kk 204 m²,"V kolkovně, Praha 1 - Staré Město",,praha,po rekonstrukci,smíšená,,,unknown
+604,Prodej bytu 4+kk 198 m²,"Helénská, Praha 2 - Vinohrady",,praha,po rekonstrukci,smíšená,,198 m,unknown
+605,Prodej bytu 4+kk 191 m²,"Helénská, Praha 2 - Vinohrady",,praha,po rekonstrukci,smíšená,,191 m,unknown
+606,Prodej bytu 4+kk 135 m²,Praha,29 500 000,praha,dobrý stav,smíšená,,135 m,total
+607,Prodej bytu 4+kk 198 m²,"Helénská, Praha 2 - Vinohrady",,praha,po rekonstrukci,smíšená,,,unknown
+608,Prodej bytu 4+kk 191 m²,"Helénská, Praha 2 - Vinohrady",,praha,po rekonstrukci,smíšená,,,unknown
+609,Prodej bytu 4+kk 135 m²,Praha,29 500 000,praha,dobrý stav,smíšená,,,total
+610,Prodej bytu 2+kk 56 m²,"Formanská, Praha 4 - Újezd u Průhonic",7 050 000,praha,novostavba,smíšená,,56 m,total
+611,Prodej bytu 4+kk 101 m²,"Formanská, Praha 4 - Újezd u Průhonic",12 700 000,praha,novostavba,smíšená,,101 m,total
+612,Prodej bytu 2+kk 56 m²,"Formanská, Praha 4 - Újezd u Průhonic",7 050 000,praha,novostavba,smíšená,,,total
+613,Prodej bytu 4+kk 101 m²,"Formanská, Praha 4 - Újezd u Průhonic",12 700 000,praha,novostavba,smíšená,,,total
+614,Prodej bytu 5+kk 293 m²,"Nad lomem, Praha 4 - Braník",,praha,dobrý stav,skeletová,,293 m,unknown
+615,Prodej bytu 5+kk 293 m²,"Nad lomem, Praha 4 - Braník",,praha,dobrý stav,skeletová,,,unknown
+616,Prodej bytu 4+kk 135 m²,"Mezitraťová, Praha 9",,praha,dobrý stav,smíšená,,135 m,unknown
+617,Prodej bytu 3+kk 100 m²,"Helénská, Praha 2 - Vinohrady",,praha,po rekonstrukci,smíšená,,100 m,unknown
+618,Prodej bytu 4+kk 135 m²,"Mezitraťová, Praha 9",,praha,dobrý stav,smíšená,,,unknown
+619,Prodej zahrady 400 m²,"U Obrázku, Liberec - Liberec XIV-Ruprechtice",1 090 000,liberecky-kraj,400 m,osobní,,,total
+620,Prodej bytu 3+kk 100 m²,"Helénská, Praha 2 - Vinohrady",,praha,po rekonstrukci,smíšená,,,unknown
+621,Prodej bytu 1+kk 37 m²,"Zásada, okres Jablonec nad Nisou",1 800 000,liberecky-kraj,osobní,cihlová,,37 m,total
+622,Prodej bytu 2+kk 68 m²,"Nad Vavrouškou, Praha 8 - Troja",9 900 000,praha,dobrý stav,cihlová,,68 m,total
+623,Prodej bytu 1+kk 37 m²,"Zásada, okres Jablonec nad Nisou",1 800 000,liberecky-kraj,osobní,cihlová,,,total
+624,Prodej bytu 2+kk 68 m²,"Nad Vavrouškou, Praha 8 - Troja",9 900 000,praha,dobrý stav,cihlová,,,total
+625,Prodej domu 107 m² s pozemkem 189 m²,"Hůlkova, Praha 9",13 440 000,praha,osobní,cihlová,189 m,107 m,total
+626,Prodej domu 107 m² s pozemkem 189 m²,"Hůlkova, Praha 9",13 440 000,praha,osobní,cihlová,189 m,,total
+627,Prodej domu 107 m² s pozemkem 189 m²,"Hůlkova, Praha 9",13 440 000,praha,osobní,cihlová,,107 m,total
+628,Prodej domu 107 m² s pozemkem 189 m²,"Hůlkova, Praha 9",13 440 000,praha,osobní,cihlová,,,total
+629,Prodej domu 152 m² s pozemkem 229 m²,"Hůlkova, Praha 9",18 130 000,praha,osobní,cihlová,229 m,152 m,total
+630,Prodej domu 152 m² s pozemkem 229 m²,"Hůlkova, Praha 9",18 130 000,praha,osobní,cihlová,229 m,,total
+631,Prodej domu 152 m² s pozemkem 229 m²,"Hůlkova, Praha 9",18 130 000,praha,osobní,cihlová,,152 m,total
+632,Prodej domu 152 m² s pozemkem 229 m²,"Hůlkova, Praha 9",18 130 000,praha,osobní,cihlová,,,total
+633,Prodej bytu 1+kk 30 m²,"Bulharská, Praha 10 - Vršovice, okres Praha",4 500 000,praha,s.r.o.,cihlová,,30 m,total
+634,Prodej bytu 1+kk 30 m²,"Bulharská, Praha 10 - Vršovice, okres Praha",4 500 000,praha,s.r.o.,cihlová,,,total
+635,Pronájem bytu 2+kk 44 m²,"Hollarovo náměstí, Praha 3 - Vinohrady",13 000,praha,osobní,cihlová,,44 m,monthly
+636,Pronájem bytu 2+kk 44 m²,"Hollarovo náměstí, Praha 3 - Vinohrady",13 000,praha,osobní,cihlová,,,monthly
+637,Prodej bytu 3+1 108 m²,"Saská, Praha 1 - Malá Strana",,praha,osobní,cihlová,,108 m,unknown
+638,Prodej bytu 3+1 108 m²,"Saská, Praha 1 - Malá Strana",,praha,osobní,cihlová,,,unknown
+639,Pronájem kanceláře 62 m²,"Na strži, Praha 4 - Nusle",26 164,praha,kanceláře,smíšená,,62 m,monthly
+640,Pronájem kanceláře 62 m²,"Na strži, Praha 4 - Nusle",26 164,praha,kanceláře,smíšená,,,monthly
+641,Pronájem bytu 2+kk 55 m²,"Choceradská, Praha 4 - Záběhlice",11 000,praha,osobní,panelová,,55 m,monthly
+642,Pronájem bytu 2+kk 55 m²,"Choceradská, Praha 4 - Záběhlice",11 000,praha,osobní,panelová,,,monthly
+643,Pronájem komerčního objektu (jiného typu) 1 000 m²,"Kladruby nad Labem, okres Pardubice",10 000,pardubicky-kraj,jiného typu,smíšená,1000 m,1000 m,monthly
+644,Pronájem komerčního objektu (jiného typu) 1 000 m²,"Kladruby nad Labem, okres Pardubice",10 000,pardubicky-kraj,jiného typu,smíšená,1000 m,,monthly
+645,Pronájem komerčního objektu (jiného typu) 1 000 m²,"Kladruby nad Labem, okres Pardubice",10 000,pardubicky-kraj,jiného typu,smíšená,,1000 m,monthly
+646,Pronájem komerčního objektu (jiného typu) 1 000 m²,"Kladruby nad Labem, okres Pardubice",10 000,pardubicky-kraj,jiného typu,smíšená,,,monthly
+647,Prodej bytu 3+1 77 m²,"Na Větrníku, Chrudim - Chrudim IV",3 920 000,pardubicky-kraj,dobrý stav,panelová,,77 m,total
+648,Prodej bytu 3+1 77 m²,"Na Větrníku, Chrudim - Chrudim IV",3 920 000,pardubicky-kraj,dobrý stav,panelová,,,total
+649,Prodej domu 200 m² s pozemkem 243 m²,"Tkalcovská, Bystré, okres Svitavy",3 250 000,pardubicky-kraj,osobní,cihlová,243 m,200 m,total
+650,Prodej domu 200 m² s pozemkem 243 m²,"Tkalcovská, Bystré, okres Svitavy",3 250 000,pardubicky-kraj,osobní,cihlová,243 m,,total
+651,Prodej domu 200 m² s pozemkem 243 m²,"Tkalcovská, Bystré, okres Svitavy",3 250 000,pardubicky-kraj,osobní,cihlová,,200 m,total
+652,Prodej domu 200 m² s pozemkem 243 m²,"Tkalcovská, Bystré, okres Svitavy",3 250 000,pardubicky-kraj,osobní,cihlová,,,total
+653,Prodej stavebního pozemku 1 401 m²,"Včelákov, okres Chrudim",1 106 790,pardubicky-kraj,,osobní,,,total
+654,Prodej domu 302 m² s pozemkem 1 044 m²,"Kamenec u Poličky, okres Svitavy",3 890 000,pardubicky-kraj,samostatný,cihlová,1044 m,302 m,total
+655,Prodej domu 180 m² s pozemkem 809 m²,"Barchov, okres Pardubice",2 490 000,pardubicky-kraj,osobní,cihlová,809 m,180 m,total
+656,Prodej domu 302 m² s pozemkem 1 044 m²,"Kamenec u Poličky, okres Svitavy",3 890 000,pardubicky-kraj,samostatný,cihlová,1044 m,,total
+657,Prodej domu 302 m² s pozemkem 1 044 m²,"Kamenec u Poličky, okres Svitavy",3 890 000,pardubicky-kraj,samostatný,cihlová,,302 m,total
+658,Prodej domu 302 m² s pozemkem 1 044 m²,"Kamenec u Poličky, okres Svitavy",3 890 000,pardubicky-kraj,samostatný,cihlová,,,total
+659,Prodej domu 180 m² s pozemkem 809 m²,"Barchov, okres Pardubice",2 490 000,pardubicky-kraj,osobní,cihlová,809 m,,total
+660,Prodej domu 180 m² s pozemkem 809 m²,"Barchov, okres Pardubice",2 490 000,pardubicky-kraj,osobní,cihlová,,180 m,total
+661,Prodej domu 180 m² s pozemkem 809 m²,"Barchov, okres Pardubice",2 490 000,pardubicky-kraj,osobní,cihlová,,,total
+662,Prodej obchodních prostor 1 286 m²,"Ke Mlýnu, Pardubice - Staré Čívice",32 999 000,pardubicky-kraj,obchodní prostory,smíšená,6206 m,1286 m,total
+663,Prodej obchodních prostor 1 286 m²,"Ke Mlýnu, Pardubice - Staré Čívice",32 999 000,pardubicky-kraj,obchodní prostory,smíšená,6206 m,,total
+664,Prodej obchodních prostor 1 286 m²,"Ke Mlýnu, Pardubice - Staré Čívice",32 999 000,pardubicky-kraj,obchodní prostory,smíšená,,1286 m,total
+665,Prodej obchodních prostor 1 286 m²,"Ke Mlýnu, Pardubice - Staré Čívice",32 999 000,pardubicky-kraj,obchodní prostory,smíšená,,,total
+666,Pronájem kanceláře 138 m²,"Pivovarská, Praha 5 - Smíchov",59 000,praha,kanceláře,smíšená,,138 m,monthly
+667,Pronájem kanceláře 138 m²,"Pivovarská, Praha 5 - Smíchov",59 000,praha,kanceláře,smíšená,,,monthly
+668,Pronájem bytu 3+kk 68 m²,"Tylova, Žamberk, okres Ústí nad Orlicí",10 000,pardubicky-kraj,osobní,cihlová,,68 m,monthly
+669,Pronájem bytu 3+kk 68 m²,"Tylova, Žamberk, okres Ústí nad Orlicí",10 000,pardubicky-kraj,osobní,cihlová,,,monthly
+670,Prodej chaty/chalupy 229 m² s pozemkem 2 764 m²,"Mladkov, okres Ústí nad Orlicí",5 490 000,pardubicky-kraj,samostatný,smíšená,2764 m,229 m,total
+671,Prodej chaty/chalupy 229 m² s pozemkem 2 764 m²,"Mladkov, okres Ústí nad Orlicí",5 490 000,pardubicky-kraj,samostatný,smíšená,2764 m,,total
+672,Prodej chaty/chalupy 229 m² s pozemkem 2 764 m²,"Mladkov, okres Ústí nad Orlicí",5 490 000,pardubicky-kraj,samostatný,smíšená,,229 m,total
+673,Prodej chaty/chalupy 229 m² s pozemkem 2 764 m²,"Mladkov, okres Ústí nad Orlicí",5 490 000,pardubicky-kraj,samostatný,smíšená,,,total
+674,Pronájem bytu 2+kk 65 m²,"Větrná, Svitavy - Lány",13 000,pardubicky-kraj,družstevní,smíšená,,65 m,monthly
+675,Prodej domu 130 m² s pozemkem 906 m²,"Zájezdec, okres Chrudim",8 890 000,pardubicky-kraj,samostatný,smíšená,906 m,130 m,total
+676,Pronájem bytu 2+kk 65 m²,"Větrná, Svitavy - Lány",13 000,pardubicky-kraj,družstevní,smíšená,,,monthly
+677,Prodej domu 130 m² s pozemkem 906 m²,"Zájezdec, okres Chrudim",8 890 000,pardubicky-kraj,samostatný,smíšená,906 m,,total
+678,Prodej domu 130 m² s pozemkem 906 m²,"Zájezdec, okres Chrudim",8 890 000,pardubicky-kraj,samostatný,smíšená,,130 m,total
+679,Prodej domu 130 m² s pozemkem 906 m²,"Zájezdec, okres Chrudim",8 890 000,pardubicky-kraj,samostatný,smíšená,,,total
+680,Pronájem bytu 4+kk 130 m²,"Hronovická, Pardubice - Zelené Předměstí",15 000,pardubicky-kraj,osobní,cihlová,,130 m,monthly
+681,Prodej domu 90 m² s pozemkem 543 m²,"Talafusova, Vysoké Mýto - Litomyšlské Předměstí, okres Ústí nad Orlicí",4 242 000,pardubicky-kraj,osobní,cihlová,543 m,90 m,total
+682,Pronájem bytu 4+kk 130 m²,"Hronovická, Pardubice - Zelené Předměstí",15 000,pardubicky-kraj,osobní,cihlová,,,monthly
+683,Prodej domu 90 m² s pozemkem 543 m²,"Talafusova, Vysoké Mýto - Litomyšlské Předměstí, okres Ústí nad Orlicí",4 242 000,pardubicky-kraj,osobní,cihlová,543 m,,total
+684,Prodej domu 90 m² s pozemkem 543 m²,"Talafusova, Vysoké Mýto - Litomyšlské Předměstí, okres Ústí nad Orlicí",4 242 000,pardubicky-kraj,osobní,cihlová,,90 m,total
+685,Prodej domu 90 m² s pozemkem 543 m²,"Talafusova, Vysoké Mýto - Litomyšlské Předměstí, okres Ústí nad Orlicí",4 242 000,pardubicky-kraj,osobní,cihlová,,,total
