@@ -18,14 +18,10 @@ zatím ve fázi, kdy se musí v kódu ručně měnit url a output file v termin�
 - (ze složky semestral_work/webscraper/webscraper)
 - v kódu pak přidat "vysocina-kraj" do url
 
-Složky se musí smazat, jinak se další scraped data budou připojovat na konec
-
-
 Uprava: 
  - pyinstaller run_spider.py
-
-
+ 
 Pro vizualizaci je potreba mit nainstalovany Dash:
  - pip install dash
 
-python app.py
+python3 app.py
