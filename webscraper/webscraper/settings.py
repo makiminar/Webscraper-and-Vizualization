@@ -15,7 +15,11 @@ SPIDER_MODULES = ['webscraper.spiders']
 NEWSPIDER_MODULE = 'webscraper.spiders'
 
 FEED_FORMAT = "csv"
-FEED_URI = "./output_files/realities.csv"
+# FEED_URI = "/home/marketa/Projects/PyCharmProjects/PYT/semestral_work/webscraper/webscraper/output_files/realities
+# .csv"
+
+FEED_URI = "/home/marketa/Projects/PyCharmProjects/PYT/semestral_work/webscraper/webscraper/output_files" \
+           "/test_realities.csv "
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 # USER_AGENT = 'webscraper (+http://www.yourdomain.com)'
