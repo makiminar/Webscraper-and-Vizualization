@@ -1,6 +1,6 @@
 from os import system
+import webscraper.run_spiders
+import vizualization.clean_data
 
-system('cd webscraper')
-system('python3 run_spiders.py')
-system('cd ../vizualization')
-system('python3 run_clean_data.py')
+system('python3 runspiders')
+system('python3 clean_data')
