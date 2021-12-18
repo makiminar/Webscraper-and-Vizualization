@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 
 file_name = '/home/marketa/Projects/PyCharmProjects/PYT/semestral_work/webscraper/vizualization/cleaned_data' \
-            '/realities.csv '
+            '/realities.csv'
 
 
 def calculate_price(price, area):
@@ -52,8 +52,8 @@ def create_has_property_column(data: pd.DataFrame) -> pd.DataFrame:
 
 
 def replace_nan(data: pd.DataFrame) -> pd.DataFrame:
-    data["property"] = data["property"].replace(np.NaN, "neznámý")
-    data["building_type"] = data["building_type"].replace(np.NaN, "neznámý")
+    data["property"] = data["property"].fillna("neznámý")
+    data["building_type"] = data["building_type"].fillna("neznámý")
     return data
 
 
@@ -81,10 +81,11 @@ def clean_data():
     df = strip_text_from_util_area(df)
     df = make_int_from_price(df)
     df = create_has_property_column(df)
+    df = replace_nan(df)
     df = extract_number_of_rooms_from_title(df)
 
     # noinspection PyTypeChecker
-    df.to_csv(file_name, sep=',', encoding='utf-8')
+    df.to_csv(file_name, sep=',', mode='w')
 
 
 clean_data()

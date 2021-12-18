@@ -12,7 +12,8 @@ pd.options.mode.chained_assignment = None
 
 app = dash.Dash(__name__)
 
-df = pd.read_csv('cleaned_data/realities.csv')
+df = pd.read_csv('/home/marketa/Projects/PyCharmProjects/PYT/semestral_work/webscraper/vizualization/cleaned_data'
+                 '/realities.csv')
 
 df.reset_index(inplace=True)
 # ------------------------------------------------------------------------------
@@ -58,6 +59,7 @@ app.layout = html.Div([
             html.Div(id='output_container1', children=[]),
             dcc.Graph(id='scatter_graph1', figure={}),
             dcc.Graph(id='bar_graph1', figure={}),
+            dcc.Graph(id='scatter_rooms_graph1', figure={}),
             dcc.Graph(id='pie_property_graph1', figure={}),
             dcc.Graph(id='pie_building_graph1', figure={})
         ],
@@ -97,6 +99,7 @@ app.layout = html.Div([
             html.Div(id='output_container2', children=[]),
             dcc.Graph(id='scatter_graph2', figure={}),
             dcc.Graph(id='bar_graph2', figure={}),
+            dcc.Graph(id='scatter_rooms_graph2', figure={}),
             dcc.Graph(id='pie_property_graph2', figure={}),
             dcc.Graph(id='pie_building_graph2', figure={})
         ],
@@ -113,6 +116,7 @@ app.layout = html.Div([
     Output(component_id='output_container1', component_property='children'),
     Output(component_id='scatter_graph1', component_property='figure'),
     Output(component_id='bar_graph1', component_property='figure'),
+    Output(component_id='scatter_rooms_graph1', component_property='figure'),
     Output(component_id='pie_property_graph1', component_property='figure'),
     Output(component_id='pie_building_graph1', component_property='figure'),
     Input(component_id='select_region1', component_property='value'),
@@ -132,6 +136,10 @@ def update_output1(selected_region, selected_type):
     fig_bar = px.bar(x=["mean", "min", "max"], y=res, barmode='group', title="Min, max a střední hodnota ceny za metr "
                                                                              "čtvereční", height=400)
 
+    rooms = chosen_df[chosen_df["number_of_rooms"].notnull()]
+
+    fig_rooms_bar = px.bar(rooms, x="number_of_rooms", y="price", title="Porovnání cen a počtu místností")
+
     fig_property_pie = px.pie(chosen_df, values="index", names="property",
                               color_discrete_sequence=px.colors.sequential.RdBu,
                               title="Rozložení vlastnictví nemovitostí")
@@ -142,13 +150,14 @@ def update_output1(selected_region, selected_type):
                               title="Rozložení typů nemovitostí")
     fig_building_pie.update_traces(textposition='inside', textinfo='percent+label')
 
-    return container1, fig_scatter, fig_bar, fig_property_pie, fig_building_pie
+    return container1, fig_scatter, fig_bar, fig_rooms_bar, fig_property_pie, fig_building_pie
 
 
 @app.callback(
     Output(component_id='output_container2', component_property='children'),
     Output(component_id='scatter_graph2', component_property='figure'),
     Output(component_id='bar_graph2', component_property='figure'),
+    Output(component_id='scatter_rooms_graph2', component_property='figure'),
     Output(component_id='pie_property_graph2', component_property='figure'),
     Output(component_id='pie_building_graph2', component_property='figure'),
     Input(component_id='select_region2', component_property='value'),
@@ -169,6 +178,10 @@ def update_output2(selected_region, selected_type):
     fig_bar = px.bar(x=["mean", "min", "max"], y=res, barmode='group', title="Min, max a střední hodnota ceny za metr "
                                                                              "čtvereční", height=400)
 
+    rooms = chosen_df[chosen_df["number_of_rooms"].notnull()]
+
+    fig_rooms_bar = px.bar(rooms, x="number_of_rooms", y="price", title="Porovnání cen a počtu místností")
+
     fig_property_pie = px.pie(chosen_df, values="index", names="property",
                               color_discrete_sequence=px.colors.sequential.RdBu,
                               title="Rozložení vlastnictví nemovitostí")
@@ -179,7 +192,7 @@ def update_output2(selected_region, selected_type):
                               title="Rozložení typů nemovitostí")
     fig_building_pie.update_traces(textposition='inside', textinfo='percent+label')
 
-    return container2, fig_scatter, fig_bar, fig_property_pie, fig_building_pie
+    return container2, fig_scatter, fig_bar, fig_rooms_bar, fig_property_pie, fig_building_pie
 
 
 if __name__ == '__main__':
