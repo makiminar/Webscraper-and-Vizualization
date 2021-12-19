@@ -7,8 +7,8 @@ import scrapy
 # stránky pomocí next_page_link
 
 # zároveň je otestovaný pomocí spider.Contracts
-class TestBotSpider(scrapy.Spider):
-    name = 'testbot'
+class TestingBotSpider(scrapy.Spider):
+    name = 'testingbot'
 
     def __init__(self, name=None, **kwargs):
         super().__init__(name)
