@@ -7,21 +7,24 @@ Aplikace poté bude porovnávat ceny nemovitostí v uživatelem zvolené lokalit
 typy nemovistostí - např. porovnání cen za m2, porovnání cen bytů s n počtem 
 místností  (vizualizace).
 
-Instalační příručka: 
- nutné mít nainstalovaný Python a Scrapy
- - pip install scrapy / conda install -c conda-forge scrapy
+Požadavky na software: 
+ - Python 2.7 a vyšší
+ - scrapy
+ - $ pip install scrapy / $ conda install -c conda-forge scrapy
    (je nutno mit alespon verzi 2.0)
 
-Spuštění:
-zatím ve fázi, kdy se musí v kódu ručně měnit url a output file v terminálu.
-- scrapy runspider spirders/realitybot.py -o outputs/reality-vysocina.csv -t csv 
-- (ze složky semestral_work/webscraper/webscraper)
-- v kódu pak přidat "vysocina-kraj" do url
+Spuštění aplikace:
 
-Uprava: 
- - pyinstaller run_spider.py
+- $ cd webscraper/vizualization
+- $ python3 run_app.py
+- http://127.0.0.1:8050/
+
+pozn.: spouští se pouze vizualizační část semestrální práce, jelikož scrapování dat trvá něco přes hodinu
+a předpokládám, že nebudete chtít sedět hodinu u počítače a čekat než doběhne program.
+
+
+Testování:
  
-Pro vizualizaci je potreba mit nainstalovany Dash:
- - pip install dash
-
-python3 app.py
+ - $ pytest (v webscraper složce projektu, otestuje čištění dat)
+ - $ scrapy check  (otestuje webscraper)
+ - $ scrapy crawl testbot (bude scrapovat pouze 1.stránku dané url, výsledná data se nachází v webscraper/webscraper/output_files/test_realities.csv)
