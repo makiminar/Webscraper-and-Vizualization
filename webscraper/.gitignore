@@ -1,3 +1,5 @@
 __pycache__/
 vizualization/__pycache__/
 webscraper/__pycache__/
+.pytest_cache/
+
