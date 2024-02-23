@@ -1,5 +1,8 @@
 from os import system
 
-# pouze v případě scrapování, nedoporucuju - běží to přes hodinu
-# system('scrapy crawl realitybot')
+# this command starts up the web scraper, runs for a very long time (over an hour)
+
 system('scrapy crawl testbot')
+
+# this command starts up the testing scraper
+# system('scrapy crawl realitybot')

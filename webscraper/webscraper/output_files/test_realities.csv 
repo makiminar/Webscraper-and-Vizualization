@@ -19,3 +19,66 @@ Prodej stavebního pozemku 789 m²,Praha 9 - Vinoř,14 750 000 Kč,praha,789 m,
 Prodej bytu 2+1 65 m²,"Jivenská, Praha 4 - Michle",6 590 000 Kč,praha,,65 m,smíšená,,1. patro (2. NP),družstevní
 Prodej domu 190 m² s pozemkem 399 m²,"Tálínská, Praha 9 - Kyje",16 871 200 Kč,praha,399 m,190 m,cihlová,,,
 Prodej domu 137 m² s pozemkem 376 m²,"Tálínská, Praha 9 - Kyje",15 774 400 Kč,praha,376 m,137 m,cihlová,,,
+title,location,price,region,land_area,util_area,building,building_type,floor,property
+Pronájem bytu 2+1 64 m²,"Puškinovo náměstí, Praha 6 - Bubeneč",19 500 Kč/měsíc,praha,,64 m,cihlová,,1. patro (2. NP),osobní
+Prodej bytu 3+kk 69 m²,"Perucká, Praha 2 - Vinohrady, okres Praha",10 192 000 Kč,praha,,69 m,skeletová,,1. patro (2. NP),osobní
+Pronájem bytu 3+kk 100 m²,"Pod Děvínem, Praha 5 - Smíchov, okres Praha",43 000 Kč/měsíc,praha,,100 m,cihlová,,1. patro (2. NP),osobní
+Prodej bytu 1+1 50 m²,"Za vokovickou vozovnou, Praha 6 - Liboc, okres Praha",6 284 000 Kč,praha,,50 m,cihlová,,2. patro (3. NP),osobní
+Prodej bytu 1+kk 17 m²,"Peroutkova, Praha 5 - Jinonice, okres Praha",2 993 000 Kč,praha,,17 m,skeletová,,8. patro (9. NP),osobní
+Prodej bytu 2+kk 51 m²,"Perucká, Praha 2 - Vinohrady, okres Praha",10 471 000 Kč,praha,,51 m,skeletová,,přízemí (1. NP = nadzemní podlaží),osobní
+Prodej bytu 1+kk 27 m²,"Perucká, Praha 2 - Vinohrady, okres Praha",6 557 000 Kč,praha,,27 m,skeletová,,přízemí (1. NP = nadzemní podlaží),osobní
+Prodej bytu 1+kk 26 m²,"Perucká, Praha 2 - Vinohrady, okres Praha",4 575 000 Kč,praha,,26 m,cihlová,,2. patro (3. NP),osobní
+Pronájem kanceláře 43 m²,"Litevská, Praha 10 - Vršovice, okres Praha",10 650 Kč/měsíc,praha,,43 m,cihlová,kanceláře,,osobní
+Pronájem obchodních prostor 73 m²,"Ortenovo náměstí, Praha 7 - Holešovice, okres Praha",24 000 Kč/měsíc,praha,,73 m,cihlová,obchodní prostory,,osobní
+Pronájem bytu 1+kk 25 m²,"Jaurisova, Praha 4 - Nusle, okres Praha",11 000 Kč/měsíc,praha,,25 m,cihlová,,3. patro (4. NP),osobní
+Pronájem obchodních prostor 244 m²,"Václavské náměstí, Praha 1 - Nové Město, okres Praha",122 000 Kč/měsíc,praha,,244 m,cihlová,obchodní prostory,,osobní
+Pronájem kanceláře 77 m²,"Litevská, Praha 10 - Vršovice, okres Praha",19 125 Kč/měsíc,praha,,77 m,skeletová,kanceláře,,osobní
+Pronájem kanceláře 1 500 m²,"Krakovská, Praha 1 - Nové Město, okres Praha",225 000 Kč/měsíc,praha,,1500 m,cihlová,kanceláře,,osobní
+Prodej obchodních prostor 124 m²,"28. pluku, Praha 10 - Vršovice, okres Praha",12 700 000 Kč,praha,,124 m,cihlová,obchodní prostory,,osobní
+Pronájem kanceláře 512 m²,"Krakovská, Praha 1 - Nové Město, okres Praha",76 800 Kč/měsíc,praha,,512 m,cihlová,kanceláře,,osobní
+Pronájem kanceláře 450 m²,"Drahobejlova, Praha 9 - Libeň, okres Praha",99 000 Kč/měsíc,praha,,450 m,cihlová,kanceláře,,osobní
+Pronájem kanceláře 15 m²,"Václavské náměstí, Praha 1 - Nové Město, okres Praha",7 920 Kč/měsíc,praha,,15 m,cihlová,kanceláře,,osobní
+Pronájem kanceláře 413 m²,"Na strži, Praha 4 - Nusle, okres Praha",110 191 Kč/měsíc,praha,,413 m,skeletová,kanceláře,,osobní
+Pronájem kanceláře 220 m²,"V olšinách, Praha 10 - Strašnice, okres Praha",60 000 Kč/měsíc,praha,,220 m,cihlová,kanceláře,,osobní
+title,location,price,region,land_area,util_area,building,building_type,floor,property
+Prodej bytu 2+kk 51 m²,"Perucká, Praha 2 - Vinohrady, okres Praha",10 471 000 Kč,praha,,51 m,skeletová,,přízemí (1. NP = nadzemní podlaží),osobní
+Prodej bytu 1+kk 17 m²,"Peroutkova, Praha 5 - Jinonice, okres Praha",2 993 000 Kč,praha,,17 m,skeletová,,8. patro (9. NP),osobní
+Pronájem kanceláře 220 m²,"V olšinách, Praha 10 - Strašnice, okres Praha",60 000 Kč/měsíc,praha,,220 m,cihlová,kanceláře,,osobní
+Pronájem obchodních prostor 73 m²,"Ortenovo náměstí, Praha 7 - Holešovice, okres Praha",24 000 Kč/měsíc,praha,,73 m,cihlová,obchodní prostory,,osobní
+Prodej bytu 1+1 50 m²,"Za vokovickou vozovnou, Praha 6 - Liboc, okres Praha",6 284 000 Kč,praha,,50 m,cihlová,,2. patro (3. NP),osobní
+Pronájem bytu 3+kk 100 m²,"Pod Děvínem, Praha 5 - Smíchov, okres Praha",43 000 Kč/měsíc,praha,,100 m,cihlová,,1. patro (2. NP),osobní
+Pronájem kanceláře 43 m²,"Litevská, Praha 10 - Vršovice, okres Praha",10 650 Kč/měsíc,praha,,43 m,cihlová,kanceláře,,osobní
+Prodej bytu 3+kk 69 m²,"Perucká, Praha 2 - Vinohrady, okres Praha",10 192 000 Kč,praha,,69 m,skeletová,,1. patro (2. NP),osobní
+Prodej bytu 1+kk 27 m²,"Perucká, Praha 2 - Vinohrady, okres Praha",6 557 000 Kč,praha,,27 m,skeletová,,přízemí (1. NP = nadzemní podlaží),osobní
+Prodej bytu 1+kk 26 m²,"Perucká, Praha 2 - Vinohrady, okres Praha",4 575 000 Kč,praha,,26 m,cihlová,,2. patro (3. NP),osobní
+Prodej obchodních prostor 124 m²,"28. pluku, Praha 10 - Vršovice, okres Praha",12 700 000 Kč,praha,,124 m,cihlová,obchodní prostory,,osobní
+Pronájem bytu 1+kk 25 m²,"Jaurisova, Praha 4 - Nusle, okres Praha",11 000 Kč/měsíc,praha,,25 m,cihlová,,3. patro (4. NP),osobní
+Pronájem obchodních prostor 244 m²,"Václavské náměstí, Praha 1 - Nové Město, okres Praha",122 000 Kč/měsíc,praha,,244 m,cihlová,obchodní prostory,,osobní
+Pronájem kanceláře 77 m²,"Litevská, Praha 10 - Vršovice, okres Praha",19 125 Kč/měsíc,praha,,77 m,skeletová,kanceláře,,osobní
+Pronájem kanceláře 80 m²,"Pod pekárnami, Praha 9 - Vysočany, okres Praha",23 200 Kč/měsíc,praha,,80 m,cihlová,kanceláře,,osobní
+Pronájem kanceláře 450 m²,"Drahobejlova, Praha 9 - Libeň, okres Praha",99 000 Kč/měsíc,praha,,450 m,cihlová,kanceláře,,osobní
+Pronájem bytu 2+1 64 m²,"Puškinovo náměstí, Praha 6 - Bubeneč",19 500 Kč/měsíc,praha,,64 m,cihlová,,1. patro (2. NP),osobní
+Pronájem obchodních prostor 202 m²,"náměstí Republiky, Praha 1 - Nové Město, okres Praha",70 525 Kč/měsíc,praha,,202 m,skeletová,obchodní prostory,,osobní
+Pronájem kanceláře 140 m²,"Krakovská, Praha 1 - Nové Město, okres Praha",21 000 Kč/měsíc,praha,,140 m,cihlová,kanceláře,,osobní
+Pronájem kanceláře 493 m²,"Václavské náměstí, Praha 1 - Nové Město, okres Praha",220 000 Kč/měsíc,praha,,493 m,skeletová,kanceláře,,osobní
+title,location,price,region,land_area,util_area,building,building_type,floor,property
+Prodej bytu 1+kk 27 m²,"Perucká, Praha 2 - Vinohrady, okres Praha",6 557 000 Kč,praha,,27 m,skeletová,,přízemí (1. NP = nadzemní podlaží),osobní
+Prodej obchodních prostor 124 m²,"28. pluku, Praha 10 - Vršovice, okres Praha",12 700 000 Kč,praha,,124 m,cihlová,obchodní prostory,,osobní
+Prodej bytu 1+kk 26 m²,"Perucká, Praha 2 - Vinohrady, okres Praha",4 575 000 Kč,praha,,26 m,cihlová,,2. patro (3. NP),osobní
+Prodej bytu 2+kk 45 m²,"Perucká, Praha 2 - Vinohrady, okres Praha",6 927 000 Kč,praha,,45 m,skeletová,,4. patro (5. NP),osobní
+Prodej bytu 1+kk 17 m²,"Peroutkova, Praha 5 - Jinonice, okres Praha",2 993 000 Kč,praha,,17 m,skeletová,,8. patro (9. NP),osobní
+Prodej bytu 3+kk 69 m²,"Perucká, Praha 2 - Vinohrady, okres Praha",10 192 000 Kč,praha,,69 m,skeletová,,1. patro (2. NP),osobní
+Pronájem bytu 3+kk 100 m²,"Pod Děvínem, Praha 5 - Smíchov, okres Praha",43 000 Kč/měsíc,praha,,100 m,cihlová,,1. patro (2. NP),osobní
+Prodej bytu 2+kk 51 m²,"Perucká, Praha 2 - Vinohrady, okres Praha",10 471 000 Kč,praha,,51 m,skeletová,,přízemí (1. NP = nadzemní podlaží),osobní
+Pronájem kanceláře 450 m²,"Drahobejlova, Praha 9 - Libeň, okres Praha",99 000 Kč/měsíc,praha,,450 m,cihlová,kanceláře,,osobní
+Pronájem bytu 2+1 64 m²,"Puškinovo náměstí, Praha 6 - Bubeneč",19 500 Kč/měsíc,praha,,64 m,cihlová,,1. patro (2. NP),osobní
+Pronájem bytu 1+kk 25 m²,"Jaurisova, Praha 4 - Nusle, okres Praha",11 000 Kč/měsíc,praha,,25 m,cihlová,,3. patro (4. NP),osobní
+Pronájem obchodních prostor 244 m²,"Václavské náměstí, Praha 1 - Nové Město, okres Praha",122 000 Kč/měsíc,praha,,244 m,cihlová,obchodní prostory,,osobní
+Pronájem kanceláře 77 m²,"Litevská, Praha 10 - Vršovice, okres Praha",19 125 Kč/měsíc,praha,,77 m,skeletová,kanceláře,,osobní
+Prodej bytu 3+1 133 m²,"Československého exilu, Praha 4 - Modřany, okres Praha",Cena na vyžádání,praha,,133 m,skeletová,,8. patro (9. NP),osobní
+Pronájem kanceláře 140 m²,"Krakovská, Praha 1 - Nové Město, okres Praha",21 000 Kč/měsíc,praha,,140 m,cihlová,kanceláře,,osobní
+Prodej bytu 1+kk 16 m²,"Studentská, Praha 6 - Dejvice, okres Praha",3 410 000 Kč,praha,,16 m,cihlová,,1. patro (2. NP),osobní
+Pronájem obchodních prostor 202 m²,"náměstí Republiky, Praha 1 - Nové Město, okres Praha",70 525 Kč/měsíc,praha,,202 m,skeletová,obchodní prostory,,osobní
+Prodej restaurace 1 092 m²,"Čenětická, Praha 4 - Chodov, okres Praha",42 900 000 Kč,praha,,1092 m,skeletová,restaurace,,osobní
+Pronájem kanceláře 493 m²,"Václavské náměstí, Praha 1 - Nové Město, okres Praha",220 000 Kč/měsíc,praha,,493 m,skeletová,kanceláře,,osobní
+Pronájem kanceláře 80 m²,"Pod pekárnami, Praha 9 - Vysočany, okres Praha",23 200 Kč/měsíc,praha,,80 m,cihlová,kanceláře,,osobní

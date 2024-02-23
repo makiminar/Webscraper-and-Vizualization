@@ -2,11 +2,11 @@
 import scrapy
 
 
-# toto je jednoduchý testovací bot, jehož chování je stejné jako chování třídy realityBot, nicméně aby demonstrace
-# funkcionality nemusela běžet hodinu, byl vytvořen tento bot, který scrapuje pouze jednu url a nepokračuje na další
-# stránky pomocí next_page_link
+# this is a simple testing bot, whose functionality is same as realityBot class (realitybot.py)
+# however this one is for testing and demonstrating purposes only as realityBot scrapes for a very long time
+# so this testing bot only gets one URL and doesn't continue to explore following links
 
-# zároveň je otestovaný pomocí spider.Contracts
+# this class is tested using spider.Contracts
 class TestingBotSpider(scrapy.Spider):
     name = 'testingbot'
 
